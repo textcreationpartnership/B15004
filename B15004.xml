@@ -1,0 +1,2235 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Christian nauy VVherein is playnely described the perfit course to sayle to the hauen of eternall happinesse. VVritten by Anthony Nixon.</title>
+            <title>Shippe of safegarde</title>
+            <author>Googe, Barnabe, 1540-1594.</author>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15004</idno><idno type="EEBO-CITATION">99845761</idno>
+  <idno type="VID">177869</idno>
+  <idno type="EEBO-PROQUEST">2248513915</idno>
+  <idno type="STC">STC 18583</idno>
+  <idno type="STC">ESTC S110155</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99845761e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15004)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 177869)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1250:07)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Christian nauy VVherein is playnely described the perfit course to sayle to the hauen of eternall happinesse. VVritten by Anthony Nixon.</title>
+                  <title>Shippe of safegarde</title>
+                  <author>Googe, Barnabe, 1540-1594.</author>
+                  <author>Nixon, Anthony.</author>
+               </titleStmt>
+               <extent>[60] p.   </extent>
+               <publicationStmt>
+                  <publisher>By Simon Stafford, dwelling in Hosier lane, neere Smithfield,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1602.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A plagiarism of: Googe, Barnabe.  The shippe of safegarde.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A-G⁴ H² .</note>
+                  <note>The last leaf is blank.</note>
+                  <note>Reproduction of a photostat of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Christian life --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:177869:1"/>
+            <p>THE CHRISTIAN <hi>NAVY.</hi> VVherein is playnely described the perfit <hi>course to sayle to the Hauen of</hi> eternall happinesse. <hi>VVritten by Anthony Nixon.</hi>
+            </p>
+            <q>Ibi res humanae nunquam prospere succe<g ref="char:EOLhyphen"/>dunt, vbi negliguntur diuinae.</q>
+            <figure>
+               <figDesc>printer's device of Simon Stafford, featuring the female personification of Opportunity standing on a wheel which floats in the sea (McKerrow 281)</figDesc>
+               <head>
+                  <q>AVT NVNC AVT NVNQVAM</q>
+               </head>
+            </figure>
+            <p>Imprinted at London by Simon Stafford, dwelling in Hosier lane, neere Smithfield. 1602.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:177869:2"/>
+            <pb facs="tcp:177869:2"/>
+            <head>To the Right Honourable and most <hi>reue<g ref="char:EOLhyphen"/>rend Father in God,</hi> Iohn Whit<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gift, <hi>Archbishop</hi> of Canterburie, Primate and Metropolitane <hi>of all England, and one of her Maiesties</hi> most Honourable priuie Counsell.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">T</seg>He stately <hi>Eagle</hi> in his princely grace,</l>
+               <l>Permits the Flye to buzze before his face,</l>
+               <l>Yet will not mooue one feather of his wing,</l>
+               <l>His weake disturber vnder foote to bring,</l>
+               <l>Euen so I hope, this worke of willing mind</l>
+               <l>Such <hi>Gracious</hi> suffrance in your sight shall find.</l>
+            </lg>
+            <lg>
+               <l>The lowly shrub doth seldome blast, or sade,</l>
+               <l>Vnder the <hi>Caedars</hi> loftie verdant shade:</l>
+               <l>The Sunne giues life as well to simple weedes,</l>
+               <l>As vnto flowres, or profitable seedes:</l>
+               <l>So may these lines begot by true affection,</l>
+               <l>Spring to more height, grac't with your safe protection.</l>
+            </lg>
+            <closer>
+               <signed>Your Graces in all dutifull obseruance, Anthony Nixon.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:177869:3"/>
+            <head>Libellus ad Lectorem.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">N</seg>Il moror aut laudes, leuis aut conuitia vulgi.</l>
+               <l>Pulchrum est vel doct is, vel placuisse piis.</l>
+               <l>Spe quo{que} maius erit nubi si cōtingat vtrū{que}:</l>
+               <l>cui <hi>Christus</hi> sapit, huic si placco, bene habet.</l>
+               <l>Magnificas Domini sonitat mea linea lau<g ref="char:EOLhyphen"/>des,</l>
+               <l>multorum lugens crimina multa virum.</l>
+               <l>Fronte legas hilari, <hi>Lector,</hi> mecum{que} precare</l>
+               <l>coelesti faustus detur in arce locus.</l>
+            </lg>
+            <closer>
+               <signed>A. N.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:177869:3"/>
+            <head>THE CHRISTIAN <hi>NAƲY.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>E that amidst the raging Ocean Seas,</l>
+               <l>With sayling Barke doth seeke the happy Port,</l>
+               <l>No leysure hath to giue himselfe to ease,</l>
+               <l>Nor respite, for due-season-losing sport;</l>
+               <l>Each time-delaying calme doth him displease,</l>
+               <l>In nothing ioyes, in nothing pleasure sinds,</l>
+               <l>Saue in the blasts of prosperous happie winds.</l>
+            </lg>
+            <lg>
+               <l>His carefull braine is busied euermore,</l>
+               <l>In viewing well his compasse and his card,</l>
+               <l>And minding still what dangers lye before,</l>
+               <l>What swelling sands, what rocks, what Hauens bard;</l>
+               <l>With skilfull head he seekes the safest shore,</l>
+               <l>Bringing his Barke, through stormes and tempests great,</l>
+               <l>To happie Port, and long desired seate.</l>
+            </lg>
+            <lg>
+               <l>The vnskilfull head, and wretchlesse idle mind,</l>
+               <l>Contrariwise doth giue himselfe to rest,</l>
+               <l>Not fearing stormes, nor boystrous blasts of wind,</l>
+               <l>But in the midst of dangers feareth least,</l>
+               <l>And thinks the Hauen happily to find.</l>
+               <l>Thus guided ill, his ship on rocks doth fall,</l>
+               <l>And casts away both fraight and soole, and all.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:4"/>
+               <l>Euen so the will and fancy of vayne man,</l>
+               <l>That through this world his painefull passage makes,</l>
+               <l>Who ought to seeke by all the meanes he can,</l>
+               <l>Through dangers great, and lothesome lowring lakes,</l>
+               <l>That happy Port, for which his course began,</l>
+               <l>In thousand harmes and thousand dangers prest,</l>
+               <l>Doth giue himselfe to carelesse ease and rest.</l>
+            </lg>
+            <lg>
+               <l>Regarding not the hazzard of himselfe,</l>
+               <l>Nor taking heed his fleshly foyst to guide,</l>
+               <l>Full fraught with sinne, and care of worldly pelfe,</l>
+               <l>Makes no account of weather, winde, or tyde,</l>
+               <l>But blindly strikes himselfe on euery shelfe,</l>
+               <l>Till on the rockes he desperately doth light,</l>
+               <l>And loseth all, for want of guyding right.</l>
+            </lg>
+            <lg>
+               <l>Within the seas of fond affection blinde,</l>
+               <l>That through the world in euery place doth flow,</l>
+               <l>Sayles euery wight that liueth here by kinde,</l>
+               <l>And runnes the race that <hi>Fancy</hi> forth doth blow,</l>
+               <l>And keepes the course that best doth please his minde:</l>
+               <l>But of ten thousand that thus brauely fleete,</l>
+               <l>Scarce ten at length doe with the Hauen meete.</l>
+            </lg>
+            <lg>
+               <l>The Hauen fayre I meane of perfit ioy,</l>
+               <l>Where chiefest pleasure hath her biding place,</l>
+               <l>Where ioy surmounts, where griefs cannot annoy,</l>
+               <l>Where liues the King of euerlasting grace,</l>
+               <l>That well rewards the mind that's well imployd,</l>
+               <l>And doth condemne to euerlasting payne,</l>
+               <l>All those that him forsake for pleasures vayne.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:4"/>
+               <l>The seas be rough, the passage full of payne,</l>
+               <l>The dangers great, the iourney large and long,</l>
+               <l>The Pilots ill, the coast is nothing playne,</l>
+               <l>The force but weake, the enemies stowt and strong,</l>
+               <l>The lets a number that doe vs detayne:</l>
+               <l>The Strayts of <hi>Marrock</hi> are not halfe so ill,</l>
+               <l>Nor race of <hi>Britayne,</hi> nor <hi>Charibd,</hi> nor <hi>Scyll.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Wherefore in vayne we striue without a guide,</l>
+               <l>To passe these seas, where thousand dangers bee,</l>
+               <l>With rockes and shelues beset on euery side,</l>
+               <l>Where nought but death the fearefull eye can see;</l>
+               <l>Now forc't with windes, now driuen back with tyde,</l>
+               <l>Amaz'd with mists, and wandring without light,</l>
+               <l>Except we finde the helpe of holy Sprite:</l>
+            </lg>
+            <lg>
+               <l>Which Sprite that in our iourney we may haue,</l>
+               <l>With humble heart and earnest prayer made,</l>
+               <l>With knees bow'd downe, his ayde here let vs craue,</l>
+               <l>That he vouchsafe to teach vs the playne trade</l>
+               <l>Of sayling right, and vs from danger saue:</l>
+               <l>With stedfast faith to him thus let vs pray,</l>
+               <l>That he may guide vs through this doubtfull way.</l>
+            </lg>
+            <lg>
+               <l>Oh sacred Sprite, that all things well doost guide,</l>
+               <l>And bring'st eche good thought to his good desire,</l>
+               <l>And suffrest not an errour to abide,</l>
+               <l>Whereas it likes thy grace for to inspire,</l>
+               <l>That doost for euery humble heart prouide,</l>
+               <l>Powre downe thy grace, direct my feeble hand,</l>
+               <l>That I may shew where perfit blisse doth stand.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:5"/>
+               <l>By thee we may be sure the way to find,</l>
+               <l>That leadeth straight to perfit ioy, and blisse:</l>
+               <l>By thee we shun the rocks, and dangers blind,</l>
+               <l>That make vs oft the <hi>Hauen</hi> faire to misse:</l>
+               <l>Thou onely art the starre that guid'st the mind;</l>
+               <l>Then giue thy light, cast down thy beames from hie,</l>
+               <l>That I may shew which way the course doth lie.</l>
+            </lg>
+            <lg>
+               <l>The wretched Seas of worldly pleasures vayne,</l>
+               <l>The mischiefes, and the harmes that come thereby,</l>
+               <l>The flattering showes, that trouble most the brayne,</l>
+               <l>The noysome lusts, and fancies there that lie,</l>
+               <l>That causers are of euerlasting payne,</l>
+               <l>I will declare, and which way we should runne,</l>
+               <l>What course to keep, what dangers we should shun.</l>
+            </lg>
+            <lg>
+               <l>Within these Seas, when first we enter in,</l>
+               <l>When first to wind our sayles committed be,</l>
+               <l>When pleasantly on calmed streames we swimme,</l>
+               <l>A mightie rocke we straight at hand may see,</l>
+               <l>All massie gold, all deckt and garnisht trimme:</l>
+               <l>The compasse great with corners out doth lye,</l>
+               <l>The height whereof doth reach the starrie skye.</l>
+            </lg>
+            <lg>
+               <l>A stately rocke beset with <hi>Diamonds</hi> fayre,</l>
+               <l>And powldred round about with <hi>Rubies</hi> red,</l>
+               <l>Where <hi>Emeralds</hi> greene do glister in the ayre,</l>
+               <l>With mantle blue of <hi>Saphyres</hi> ouerspred,</l>
+               <l>Where wants no stone that <hi>Nature</hi> can repayre:</l>
+               <l>Another heauen for the time it seemes,</l>
+               <l>And oft for heauen foolish man it deemes.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:5"/>
+               <l>With swelling sands it lyes encompast round,</l>
+               <l>And many a ragged reach it sendeth out,</l>
+               <l>Whereby a thousand thousands haue bin drown'd,</l>
+               <l>Yet neuer cease they for to sayle about,</l>
+               <l>In gazing still vpon this gorgeous ground,</l>
+               <l>Till on the sands with hasty course they slide,</l>
+               <l>And lose themselues vpon this piere of pride.</l>
+            </lg>
+            <lg>
+               <l>No danger greater shalt thou lightly find,</l>
+               <l>That more mishap, or mischiefe more doth make,</l>
+               <l>Then this, that plucks away eche mortall minde,</l>
+               <l>And causeth him contrary course to take:</l>
+               <l>Who forward bent with foolish pride-puft winde,</l>
+               <l>Forsakes the way, till keele on sands he knocke,</l>
+               <l>And dasheth all asunder on this rocke.</l>
+            </lg>
+            <lg>
+               <l>A wretched rocke, that mounting to the skye,</l>
+               <l>(Contenting not himselfe with earthly spoyle)</l>
+               <l>Once ouerthrew the Angels sitting hye,</l>
+               <l>And cast them head-long from their happy soyle,</l>
+               <l>To darkest place, where wayling now they lye;</l>
+               <l>The chiefe Estates and Princes here below</l>
+               <l>Haue right good cause this dangerous place to know.</l>
+            </lg>
+            <lg>
+               <l>The raging waues doe belching vpwards cast</l>
+               <l>The wretched wracks that round about doe fleet:</l>
+               <l>The silken sayles and glistring golden mast</l>
+               <l>Lyes all to torne and trodden vnder feet,</l>
+               <l>The witlesse throng of women swarming fast,</l>
+               <l>With scarses and feathers like to souldiers drest,</l>
+               <l>With painted haue, and shamelesse bated brest.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:6"/>
+               <l>A monstrous sort of men, there shalt thou see,</l>
+               <l>Not men, but monsters sure that beate the face</l>
+               <l>Of men, that neuer can contented bee</l>
+               <l>With comely garments meete, but (voyd of grace)</l>
+               <l>Forgetting quite their ancient old degree,</l>
+               <l>To women chang'd, their manly shapes deface</l>
+               <l>With frizled hayre and womanish disgrace,</l>
+            </lg>
+            <lg>
+               <l>With count'nance coy, and forehead forced hie,</l>
+               <l>And staring top, as lately frayed with sprites,</l>
+               <l>In rich attire to feede the gazers eye</l>
+               <l>That euermore in glistring shew delights:</l>
+               <l>A sort of beasts, whose chiefest ioy doth lye</l>
+               <l>In decking vp their carkas trimme and gay,</l>
+               <l>Which shall be but (at last) for wormes a pray.</l>
+            </lg>
+            <lg>
+               <l>As paynted Tombes, that stinch and filth contayne,</l>
+               <l>And <hi>Arras</hi> fayre that rotten walles doth hide:</l>
+               <l>So do these fooles, with all their garments vayne,</l>
+               <l>And fresh attire drest vp in pompe, and pride,</l>
+               <l>Onely nurse vp a selfe-beguiling brayne:</l>
+               <l>For vnderneath their garments glistring braue</l>
+               <l>Lye mindes corrupt, as rotten bones in graue.</l>
+            </lg>
+            <lg>
+               <l>A sinfull sort that wholly spend their life</l>
+               <l>In setting out their earth-bred carkas heere,</l>
+               <l>Who night and day do passe with care and strife,</l>
+               <l>In studying how they fayrest may appeere:</l>
+               <l>And weary soone of fashions old, and rife,</l>
+               <l>Disguise themselues in new disguised geare,</l>
+               <l>And change their minds as things are chang'd to weare.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:6"/>
+               <l>Fly thou this rocke, and take good heede thereto:</l>
+               <l>For who so keepes this dreadfull dangerous way,</l>
+               <l>Will runne the race that him will quite vndoe,</l>
+               <l>And misse the marke by sayling thus astray,</l>
+               <l>That should him bring this happie <hi>Hauen</hi> to:</l>
+               <l>No greater harme can hap to mortall kinde,</l>
+               <l>Then for to runne vpon this danger blind.</l>
+            </lg>
+            <lg>
+               <l>For who so once vpon the same doth fall,</l>
+               <l>Forgetteth God, forgets his owne estate,</l>
+               <l>Of good or vertue makes no count at all,</l>
+               <l>So he may liue aloft without a mate,</l>
+               <l>And for t'attayne a little glory small,</l>
+               <l>He nought esteemes of mighty <hi>Ioue</hi> his wrath,</l>
+               <l>Though nought haue greater perill, then Pride hath.</l>
+            </lg>
+            <lg>
+               <l>But to auoyde this rocke and hazzard great,</l>
+               <l>Strike thou thy sayles, and beare thy count'nance low,</l>
+               <l>Shun sumptuous shew, regard not Lordly seate,</l>
+               <l>Nor to be knowne: seeke rather God to know,</l>
+               <l>Who being Lord, and Prince of glory great,</l>
+               <l>In poore attire, and simple shew beside,</l>
+               <l>Came down from hie, to teach vs to shun Pride.</l>
+            </lg>
+            <lg>
+               <l>Remember still how that the lofty mindes,</l>
+               <l>That in this world doe seeke to glister so,</l>
+               <l>Blowne on this rock by fond vaine glorious winds,</l>
+               <l>Fall headlong downe to euerlasting woe,</l>
+               <l>Where no release of torments they shall finde,</l>
+               <l>But as they wont in colours bright to goe,</l>
+               <l>So bright in flames of fire shall ouerthrowe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:7"/>
+               <l>Be neuer proud of what so Nature giues;</l>
+               <l>For what she giues, in time she takes away:</l>
+               <l>The fairest creature, finest wit that liues,</l>
+               <l>In shortest time, we see, doth cleane decay;</l>
+               <l>Away goeth all, though ne're so sore it grieues.</l>
+               <l>What folly then is it to set delight</l>
+               <l>On fading smoake, and lose the heauens bright?</l>
+            </lg>
+            <lg>
+               <l>Be lowly-minded, and of humble cheare,</l>
+               <l>Thinke glory vnmeet for men of base degree:</l>
+               <l>Since God for pride with Angels would not beare,</l>
+               <l>Be well assur'd he will not beare't in thee.</l>
+               <l>Too late thou shalt repent, when thou shalt see</l>
+               <l>The sober sort to highest heauens flie,</l>
+               <l>And thou thy selfe in fell <hi>Auernus</hi> lie.</l>
+            </lg>
+            <lg>
+               <l>The griefe beside is great of troubled minde,</l>
+               <l>That in this world they oftentimes sustayne,</l>
+               <l>As want of wealth that stop; their fancies blinde,</l>
+               <l>Whereby they fare like <hi>Tantalus</hi> in payne:</l>
+               <l>When other men they costly clad doe finde,</l>
+               <l>And they cannot attayne the selfe same grace,</l>
+               <l>Oh how themselues with griefes they doe deface.</l>
+            </lg>
+            <lg>
+               <l>The cristall glasse, wherein they wont to pry</l>
+               <l>With ioyfull heart to see their beauty cleare,</l>
+               <l>Giues out a shape vnpleasant to the eye,</l>
+               <l>Whereas their crabbed count'nance doth appeare,</l>
+               <l>Downe falles the visage then with heauy cheare,</l>
+               <l>And mourning, they from thence apace doe go,</l>
+               <l>As men amazed with some sodayne woe.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:177869:7"/>
+               <l>The pleasant fame for euer now is gone,</l>
+               <l>That wonted was their eares for to delight,</l>
+               <l>Of <hi>Marke him well, Loe, yonder goeth one,</hi>
+               </l>
+               <l>
+                  <hi>In whome hath Nature sought to shew her might:</hi>
+               </l>
+               <l>
+                  <hi>A comelier man you cannot looke vpon.</hi>
+               </l>
+               <l>Now, no such sound, but scorn'd on euery side,</l>
+               <l>While each one sayth, <hi>Behold the end of pride.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Therefore take heede that in these Seas doost sayle,</l>
+               <l>Let not this vayne delight deceiue thy mind,</l>
+               <l>But rather striue against it to preuayle,</l>
+               <l>And seeke the Chanell of <hi>Lowlinesse</hi> to find,</l>
+               <l>Which whē thou gett'st, no tempest can thee quaile:</l>
+               <l>For there is harbour safe for euery wight,</l>
+               <l>That in this happie Chanell haps to light.</l>
+            </lg>
+            <div type="part">
+               <lg>
+                  <l>THis danger past, and left aloofe behind,</l>
+                  <l>Before thine eyes doth straight againe appeere</l>
+                  <l>A fowle deformed pile, and hazzard blind,</l>
+                  <l>That casts away all such as trauell neere.</l>
+                  <l>A lothsome rocke, and hurtfull to the mind,</l>
+                  <l>Deformed to the eye, yet doth allure,</l>
+                  <l>Of earthly men, the earthly minds vnpure.</l>
+               </lg>
+               <lg>
+                  <l>A dangerous place, that numbers doth destroy</l>
+                  <l>Of such, as carelesse are of going right,</l>
+                  <l>Whose brutish minds haue here no other ioy,</l>
+                  <l>Then on the drosse of earth to set delight.</l>
+                  <l>This mischiefe great hurts not the heauenly sprite,</l>
+                  <l>But greedy mindes and such as are not wise.</l>
+                  <l>This lothsome place is called <hi>Auarice.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:8"/>
+                  <l>A number great of wracks here shalt thou see,</l>
+                  <l>That thicke about this place in thousands swarme,</l>
+                  <l>That neuer could aliue admonisht bee</l>
+                  <l>For to beware of this so great a harme,</l>
+                  <l>Nor to eschue this present icoperdy,</l>
+                  <l>Nor no aduice could cause them sayle aright,</l>
+                  <l>Till on this rocke they wilfully doe light.</l>
+               </lg>
+               <lg>
+                  <l>With count'nance pale and wan thou shalt behold</l>
+                  <l>Their carcasses consumed vnto nought,</l>
+                  <l>Their wearish limmes with cares congealed cold,</l>
+                  <l>Their bloud dri'd vp with sorrow and with thought,</l>
+                  <l>Their feeble fingers clasping in of gold,</l>
+                  <l>Hang'd round about with bags on euery side,</l>
+                  <l>The poyse whereof doth cause them there to bide.</l>
+               </lg>
+               <lg>
+                  <l>Vpon the sands great caskets heaped lye,</l>
+                  <l>And coffers stuft with euery kind of coyne,</l>
+                  <l>Scrap't vp by fraud, and filthy vsury,</l>
+                  <l>Now here, now there, wherese're they could pursoyne,</l>
+                  <l>By force, by fraud, or any villany:</l>
+                  <l>They wey not where, or how they do it get:</l>
+                  <l>For all is fish with them, that comes to net.</l>
+               </lg>
+               <lg>
+                  <l>A filthy mind that trauels to no end,</l>
+                  <l>But for to please the still desiring eye,</l>
+                  <l>Esteemes no payne, regards no foe, nor frend,</l>
+                  <l>Helps not himselfe, nor no man else thereby,</l>
+                  <l>In sparing ioyes, and pineth if he spend,</l>
+                  <l>When by his death he pleasures with his hoord,</l>
+                  <l>As doth the swine when as he comes to boord.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:8"/>
+                  <l>A brutish sort that neuer can reioyce</l>
+                  <l>While here they liue, for carke, for feare, or toyle,</l>
+                  <l>Still dreaming that they heare the dreadfull voyce</l>
+                  <l>Of theefe at hand, or souldier them to spoyle,</l>
+                  <l>Or else of death, that makes of them no choyce,</l>
+                  <l>But rakes them vp in earth enclosed deepe,</l>
+                  <l>Where voyd of gayne, and kept for payne, they sleepe.</l>
+               </lg>
+               <lg>
+                  <l>What profits them their heapes of riches great,</l>
+                  <l>For which, aliue, they tooke such care, and payne,</l>
+                  <l>Oft wanting sleepe, for bearing often meate,</l>
+                  <l>With greedy mind t'increase their treasure vayne,</l>
+                  <l>When lothsome wormes their carkasses shall eate,</l>
+                  <l>Rung downe to hell with cursings of the poore,</l>
+                  <l>Whose wiues and children weeping lye at doore?</l>
+               </lg>
+               <lg>
+                  <l>What helps the wealth, that doth not serue the need?</l>
+                  <l>What good doth gold, that doth but feede the eye?</l>
+                  <l>What gayne but griefe, haue they for all their meed,</l>
+                  <l>That labour here for money till they dye,</l>
+                  <l>Which long kept in, is spent at length with speede?</l>
+                  <l>A goodly thing to pine for riches so,</l>
+                  <l>And know not who shall haue them, when we go.</l>
+               </lg>
+               <lg>
+                  <l>Oh wretched beasts, that neuer haue an end</l>
+                  <l>Of this your vile, and couetous desire,</l>
+                  <l>Why spare you this that other folkes shall spend?</l>
+                  <l>You toyle and moyle like <hi>Bayard</hi> in the mire,</l>
+                  <l>Your selues to graue before your time you send,</l>
+                  <l>Finding at length the fruits of all your gayne,</l>
+                  <l>In broyling flames and neuer ceasing payne.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:9"/>
+                  <l>The poore opprest, whome in this world you pold,</l>
+                  <l>Your selues shall see to glister in the skye,</l>
+                  <l>And call, and ball to them for water cold,</l>
+                  <l>To coole your heate in torments, where you lye:</l>
+                  <l>But all in vayne: this you haue beene foretold.</l>
+                  <l>And since by others harmes you take not heede,</l>
+                  <l>Blame but your selues in like sort if you speede.</l>
+               </lg>
+               <lg>
+                  <l>God hath himselfe declar'd to you before,</l>
+                  <l>That euen as slow, rich men to heauen doe flye,</l>
+                  <l>And enter in as hardly at the dore,</l>
+                  <l>As doth the <hi>Cammell</hi> passe a needles eye.</l>
+                  <l>Your burden great, extorted from the poore,</l>
+                  <l>Doth keepe you down, the gates are very streghit,</l>
+                  <l>You cannot enter with so great a weight.</l>
+               </lg>
+               <lg>
+                  <l>Your Factors lye not there to answere you,</l>
+                  <l>Your bill of debt, nor no such other geare,</l>
+                  <l>Nor by exchange you can haue nothing, due,</l>
+                  <l>Your double vsance is but single there,</l>
+                  <l>The trade is chang'd, the world is altred new,</l>
+                  <l>Your ten in hundreths scarcely then will mount,</l>
+                  <l>When for your dealings you shall make account.</l>
+               </lg>
+               <lg>
+                  <l>A thousand actions shall be entred there</l>
+                  <l>Against you, for your fraud and vsury,</l>
+                  <l>And <hi>Lawyer</hi> none shall shew his face for feare:</l>
+                  <l>Though you retayne him with his double fee;</l>
+                  <l>His Clients cause, and his shall then agree:</l>
+                  <l>The Iudge is wise, and easly can espye,</l>
+                  <l>If fault or fraud do vnder colours lye.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:9"/>
+                  <l>With quaking heart, at barre then shalt thou stand,</l>
+                  <l>Without aduice or any other ayde,</l>
+                  <l>Hye holding vp thy guilty guilded hand,</l>
+                  <l>For feare of sentence vtterly dismaydes</l>
+                  <l>Thy whole account shall throughly there be scan'd,</l>
+                  <l>And euery penny how it hath beene spent,</l>
+                  <l>That vnto thee for purpose good was lent.</l>
+               </lg>
+               <lg>
+                  <l>Therefore who sayleth neere this lothsome place,</l>
+                  <l>Fall off betimes, and keepe another way,</l>
+                  <l>Haue in thy mind the <hi>Hauen</hi> faire of grace,</l>
+                  <l>And from thy compasse goe not much astray;</l>
+                  <l>Behold thy Card, and keepe a perfit race,</l>
+                  <l>No Ankers here beware that thou do cast:</l>
+                  <l>For shippe and all will soone be laid vp fast.</l>
+               </lg>
+               <lg>
+                  <l>And if the burthen that thou bear'st begreat,</l>
+                  <l>Cast ouer-boord both bagge and baggage quite,</l>
+                  <l>Let neuer gold thee of thy ioyes defeate:</l>
+                  <l>Safe shalt thou sayle and better trauell light,</l>
+                  <l>Then ouer-laden lose the happy seate</l>
+                  <l>Of rest and blisse, where free and frankest minds</l>
+                  <l>Do shrowd their ship escap't from greedy winds.</l>
+               </lg>
+               <lg>
+                  <l>Well mayst th'imploy the riches here thou hast,</l>
+                  <l>And please the King, and Lord of glory hye,</l>
+                  <l>If that thou mak'st of them no wanton waste,</l>
+                  <l>Nor scrap'st them vp in Coffers close to lye,</l>
+                  <l>But lay'st them where they may be safest plaste,</l>
+                  <l>Vpon poore soules that comfortlesse remayne.</l>
+                  <l>This is the best, and surest kind of gayne.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:10"/>
+                  <l>How goodly a thing is it for to relieue</l>
+                  <l>Th'afflicted case of men with neede opprest,</l>
+                  <l>Whome dayly cares, and troubled mind doth grieue,</l>
+                  <l>That scarce can find an houre of quiet rest,</l>
+                  <l>Whilst thou hast thousands hanging on thy sleeue?</l>
+                  <l>Remember well, that riches are but lent,</l>
+                  <l>And nothing ours, but that which is well spent.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>ANother mischiefe in the way doth stand,</l>
+                  <l>With vgly shew, and vile deformed sight,</l>
+                  <l>Encompast round with quick and quiuering sand,</l>
+                  <l>That swallowes vp all such as thereon light:</l>
+                  <l>Fowle swarmes of Serpents crawle on euery hand,</l>
+                  <l>Whose hissing tongues do yeeld a hurtfull noyse,</l>
+                  <l>A lothsome sound, a most vnpleasant voyce.</l>
+               </lg>
+               <lg>
+                  <l>About this rocke in euery place they crawle,</l>
+                  <l>And shake their tongues at them that trauell by,</l>
+                  <l>Whome enuious windes do cause with them to fall,</l>
+                  <l>And spight compels to runne their course awry.</l>
+                  <l>Most wretched guides to guide a Barke withall,</l>
+                  <l>Who neuer cease till all be ouerthrowne,</l>
+                  <l>Till foyst and frayght be vnder surges blowne,</l>
+               </lg>
+               <lg>
+                  <l>Here poyson'd vapours dayly do arise,</l>
+                  <l>And yelling noyse, and hatefull crye is heard,</l>
+                  <l>The hellish clouds so daze the Saylers eyes,</l>
+                  <l>That scarce he sees his Compasse or his Carde,</l>
+                  <l>Except he skilfull be, and very wise,</l>
+                  <l>And cast about to meete some better wind,</l>
+                  <l>That may him bring vnto his Port assign'd.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:10"/>
+                  <l>The tyde is strong, that runneth thereabout,</l>
+                  <l>The weather great, that beates vpon the coast,</l>
+                  <l>The hold too weake, to thinke to rid it out,</l>
+                  <l>Whereby at Anker many haue beene lost,</l>
+                  <l>That thought it safe, and made thereof no doubt.</l>
+                  <l>This harmefull place, <hi>Detraction</hi> hath to name,</l>
+                  <l>An ancient enemy to the Barke of fame.</l>
+               </lg>
+               <lg>
+                  <l>Vpon this rocke, as lost and cast away,</l>
+                  <l>All those, whose tongues delight in ill report,</l>
+                  <l>And make of slanders but a kind of play,</l>
+                  <l>Wherewith themselues most spightfully they sport,</l>
+                  <l>Spoyling good name and fame of eu'ry sort,</l>
+                  <l>Still charging them with this thing, and with that,</l>
+                  <l>And oftentimes they wot not well with what.</l>
+               </lg>
+               <lg>
+                  <l>Of euery man their tongue must runne at large,</l>
+                  <l>Nought can be said, but must their iudgement passe,</l>
+                  <l>Their Oates must be aboord in euery Barge,</l>
+                  <l>With each mans life they mell, and yet (alas)</l>
+                  <l>Their owne is worst, whereof they take no charge:</l>
+                  <l>But looke, in others, what they spye amisse,</l>
+                  <l>A pace at that, with hatefull tongue they hisse.</l>
+               </lg>
+               <lg>
+                  <l>Whatse're they see, or whatsoe're they heare,</l>
+                  <l>They make much worse then it was sayd, or ment,</l>
+                  <l>Their cankred tongues so spightfull do appeare,</l>
+                  <l>That still to ill they change the good intent,</l>
+                  <l>And make it darke, that of it selfe was cleare:</l>
+                  <l>What likes them not, must strayte dispraysed bee:</l>
+                  <l>Their eyes be dimme, they can no vertue see.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:11"/>
+                  <l>The vertuous't man that can be found aliue,</l>
+                  <l>Cannot escape their spightfull poyson'd tung,</l>
+                  <l>Although by all the meanes he can, he striue</l>
+                  <l>With vertuous life to cease the rumor sprung.</l>
+                  <l>No vertuous act these Waspes away can driue,</l>
+                  <l>But Harpy-like they file all with their doung,</l>
+                  <l>Making ill speech their vsuall Table song.</l>
+               </lg>
+               <lg>
+                  <l>Most lothsome fowles that haue no other foode,</l>
+                  <l>But feed vpon the fame of euery man.</l>
+                  <l>A filthy race, a cursed beastly broode,</l>
+                  <l>Who while themselues no kind of vertue can,</l>
+                  <l>Yet in their fond and frantike furious moode,</l>
+                  <l>Their enuious hearts are like to breake with spight,</l>
+                  <l>To see that any seeke to liue vpright.</l>
+               </lg>
+               <lg>
+                  <l>This wretched sort haue swarmed euermore,</l>
+                  <l>And haue continued since the world was made,</l>
+                  <l>Encreasing still with poyson kept in store,</l>
+                  <l>Haue neuer ceast their former cursed trade.</l>
+                  <l>The godliest men in ages here before,</l>
+                  <l>Do what they could, could not escape the sting</l>
+                  <l>Of slaunderous tongues that more and more did spring.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Moyses,</hi> who meeke and vertuous still in sprite,</l>
+                  <l>Deserued well of euery kind of man,</l>
+                  <l>Redressing wrong, and alwayes furth'ring right,</l>
+                  <l>Of whome a fame through all the world out-ranne,</l>
+                  <l>In whome th'Almighty Lord tooke great delight,</l>
+                  <l>Could not escape this cankred currish sort,</l>
+                  <l>That stayn'd his fame with lewd and ill report,</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:11"/>
+                  <l>Reporting that he wrought by <hi>Sorcery,</hi>
+                  </l>
+                  <l>Such wonders great as at that time they saw,</l>
+                  <l>And that he gouern'd all by Tyranny,</l>
+                  <l>Misvsing men without all right or law,</l>
+                  <l>Oppressing poore men with extremity,</l>
+                  <l>Inuenting a Religion fond, and vayne,</l>
+                  <l>Deuised onely by his subtill brayne.</l>
+               </lg>
+               <lg>
+                  <l>The righteous <hi>Iob,</hi> that perfit was, and iust,</l>
+                  <l>In whom the deuill himselfe no fault could find,</l>
+                  <l>That serued God with earnest faith and trust,</l>
+                  <l>Obedient alwayes to his sacred mind,</l>
+                  <l>Despis'd the world, despis'd all fleshly lust:</l>
+                  <l>Yet felt the tongue, and sting of slandrous fame,</l>
+                  <l>That found in him, things worthy still of blame.</l>
+               </lg>
+               <lg>
+                  <l>The holy Prophets, that liu'd long agoe</l>
+                  <l>Like Gods on earth, with vertue shining bright,</l>
+                  <l>Who planted vertue, whereas vice did flow,</l>
+                  <l>And on the heauens set their whole delight,</l>
+                  <l>In teaching men the right way here to goe,</l>
+                  <l>Were oft reuil'd, and counted bad and nought,</l>
+                  <l>And such as all things out of order brought.</l>
+               </lg>
+               <lg>
+                  <l>That happy Messenger of tidings glad,</l>
+                  <l>That made the heauy heart for to reioyce,</l>
+                  <l>And cast away their dolefull count'nance sad,</l>
+                  <l>Reuiued with his healthfull heauenly voyce,</l>
+                  <l>While as he preach't with skins of Camell clad:</l>
+                  <l>This cursed sort that all things wrong do wrest,</l>
+                  <l>Reporteth that the deuill him possest.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:12"/>
+                  <l>Th'almightie Lord, that downe from heauen hie,</l>
+                  <l>Amongst vs came, to saue such as were lost,</l>
+                  <l>In whom no sinne, nor kind of vice did lie,</l>
+                  <l>All full of grace and of the holy Ghost,</l>
+                  <l>Relieued all that vnto him did crie;</l>
+                  <l>For all his vertue, and his state diuine,</l>
+                  <l>Was cal'd a Glutton, drinker deepe in wine.</l>
+               </lg>
+               <lg>
+                  <l>What should I call to mind the lewd report</l>
+                  <l>His good Disciples got for all their payne,</l>
+                  <l>The infamies that toucht that sacred sort,</l>
+                  <l>That gaue their liues t'increase the heauenly raigne,</l>
+                  <l>Who made of cruell torments but a sport,</l>
+                  <l>The slaunderous tongues yet blaz'd in eu'ry place,</l>
+                  <l>How they nor had religion, God, nor grace?</l>
+               </lg>
+               <lg>
+                  <l>What should I tell the canckred carlish spight,</l>
+                  <l>Shew'd openly at this same present day,</l>
+                  <l>Of such as boast in Gods behalfe to write,</l>
+                  <l>Whose deuillish tongues their hellish hearts bewray?</l>
+                  <l>With blasphemies the heauens hie they smite.</l>
+                  <l>Ywis, Christ neuer taught vncourteous stile,</l>
+                  <l>Nor seemes a Christian, words so harsh, so vile.</l>
+               </lg>
+               <lg>
+                  <l>His sprite was meeke, his talke was alwayes mild,</l>
+                  <l>With words of comfort euermore he spake,</l>
+                  <l>All bitter speach from him was quite exil'd.</l>
+                  <l>Wherefore he bade all his example take,</l>
+                  <l>And that his children should ill words forsake.</l>
+                  <l>Vnciuill speach, rude, voyd of courtesie,</l>
+                  <l>Sauours of hell, and not of heauens glorie.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:12"/>
+                  <l>The Fiends, that low in <hi>Pluto's</hi> kingdome lie</l>
+                  <l>Condemned to perpetuall paine and shame,</l>
+                  <l>This cursed speach doe vse continually,</l>
+                  <l>And barke and brawle at euery vertuous name,</l>
+                  <l>Accusing still the Saints of God with blame.</l>
+                  <l>Thus doth hels hatefull minister euer teach,</l>
+                  <l>With cursed speach, and poys'ned tongue to preach:</l>
+               </lg>
+               <lg>
+                  <l>For slaunder there, is counted vertue great:</l>
+                  <l>In hatefull words they most of all delight;</l>
+                  <l>Foule <hi>Infamy</hi> hath there the chiefest seat,</l>
+                  <l>Accompanide with malice and with spight,</l>
+                  <l>Whose hatefull shew, and euill-abounding sight,</l>
+                  <l>Repineth still at all men that doe well,</l>
+                  <l>And fearing God, doe shun the pit of hell.</l>
+               </lg>
+               <lg>
+                  <l>But thou, that seek'st the happy heauenly seat,</l>
+                  <l>Keepe not this course; <hi>Detraction</hi> still defye,</l>
+                  <l>With spitefull tongue doe thou no man intreat;</l>
+                  <l>On others faults haue neuer too much eye,</l>
+                  <l>But on thine owne, that liu'st in dangers great:</l>
+                  <l>For why should'st thou of others babble so,</l>
+                  <l>When thou thy selfe hast vices many moe?</l>
+               </lg>
+               <lg>
+                  <l>Let no mans life by thee defaced be,</l>
+                  <l>Take not away that thou canst not restore,</l>
+                  <l>And looke what faults in others thou doost see,</l>
+                  <l>Take heed that in thy selfe there be not more:</l>
+                  <l>Report not ill, speake well of eche degree:</l>
+                  <l>Good words are still eternized with fame,</l>
+                  <l>Whereas ill speach turnes to the speakers shame.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:13"/>
+                  <l>The gentle minde doth plainely represent</l>
+                  <l>A liuely forme of God himselfe on hye,</l>
+                  <l>Whose gracious will to goodnesse alwayes bent,</l>
+                  <l>Delights in mildnesse and in clemency,</l>
+                  <l>Who chiefly framed man for that intent.</l>
+                  <l>But cursed speech this picture out doth race,</l>
+                  <l>And sets vp Sathan in the selfe-same place.</l>
+               </lg>
+               <lg>
+                  <l>Auoyd this danger, further from it flye,</l>
+                  <l>Let not such mischiefe thy destruction be,</l>
+                  <l>For feare of losing all, sayle not too nye:</l>
+                  <l>The losse is great, some safer shore go see,</l>
+                  <l>Whereas at Anker thou mayst safely lye.</l>
+                  <l>In dangers great we may not runne at length,</l>
+                  <l>But rest a while to gather further strength.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>HOyse vp thy sayles, and giue them to the wind,</l>
+                  <l>These dangers past, the fewer do remayne:</l>
+                  <l>Take courage good, &amp; shew thy valiant mind,</l>
+                  <l>And weight that pleasure followes after payne,</l>
+                  <l>As after troubles quiet rest we find:</l>
+                  <l>For who so shrinks with painefull things to meete,</l>
+                  <l>Is far vnworthy for to taste the sweete.</l>
+               </lg>
+               <lg>
+                  <l>Sayle on thy course, and cast a carefull eye</l>
+                  <l>About thy selfe within these Seas so tost,</l>
+                  <l>And euer marke what perils neere do lye,</l>
+                  <l>For feare thy negligence thee deerely cost,</l>
+                  <l>And shunne the place which hath so many crost,</l>
+                  <l>That carelesly with vnaduised mind,</l>
+                  <l>Haue blindly followed euery puft of wind.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:13"/>
+                  <l>Before thy face, at hand thou shalt behold</l>
+                  <l>A foule great Flat, most lothsome for to see,</l>
+                  <l>All ouer-spred with limmes and bodies cold,</l>
+                  <l>And Barkes and Boates that all to broken be,</l>
+                  <l>From whence the fraight vpon the sands are rolde,</l>
+                  <l>That sprawling lye vpon this wretched place,</l>
+                  <l>With pity-pleading looke, and woe-worne face.</l>
+               </lg>
+               <lg>
+                  <l>About the broken Barkes doe scattred lye</l>
+                  <l>Great tunnes of wine, of euery kind and sort,</l>
+                  <l>And sumptuous tables, dishes heaped hye,</l>
+                  <l>And costly banquets paynted with disport,</l>
+                  <l>The more to please the greedy <hi>Gluttons</hi> eye.</l>
+                  <l>No kind of fish or flesh there can be got,</l>
+                  <l>But may be seene heap't vp vpon this plot.</l>
+               </lg>
+               <lg>
+                  <l>About these dishes round attending stand,</l>
+                  <l>Each vile disease that may be nam'd or found:</l>
+                  <l>The groning <hi>Gowt,</hi> with shackled foote and hand,</l>
+                  <l>That scarce can stay from falling to the ground:</l>
+                  <l>The <hi>Dropsy</hi> pale stands shaking on the sand:</l>
+                  <l>The <hi>Feuer</hi> hot sits gaping here for wind,</l>
+                  <l>Whose scorched toung no taste in meate can find.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quotidians</hi> there, and <hi>Quartanes</hi> shalt thou see,</l>
+                  <l>Now shaking cold, now burning all on flame.</l>
+                  <l>There paynefull <hi>Collicks,</hi> bastard <hi>Tertians</hi> be,</l>
+                  <l>And that disease, which <hi>Iaundise</hi> hath to name,</l>
+                  <l>With many more of this fraternity:</l>
+                  <l>Whereat Phisicions often make their wealth,</l>
+                  <l>More weighing gold, then any Patients health.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:14"/>
+                  <l>A number great of sicknesses beside,</l>
+                  <l>Languishing here in deaths pale threatning show,</l>
+                  <l>May euery where about this place be spide,</l>
+                  <l>That in these full-fed fooles do often grow;</l>
+                  <l>As <hi>Pleurisies</hi> with torments in the side,</l>
+                  <l>With <hi>Falling-sicknesse</hi> that doth foming lye,</l>
+                  <l>And <hi>Apoplexies,</hi> murthering suddenly.</l>
+               </lg>
+               <lg>
+                  <l>Most grieuous paynes, and swimming in the head,</l>
+                  <l>With <hi>Lethargies,</hi> forgetting euerything,</l>
+                  <l>And strangling <hi>Quinsies,</hi> with hote humors fed,</l>
+                  <l>That many men vnto their graues do bring:</l>
+                  <l>Consuming <hi>Ptisicks,</hi> lingring long in bed,</l>
+                  <l>Both <hi>Stone</hi> and <hi>Strangury</hi> lye here in great payne,</l>
+                  <l>And many more, that to rehearse were vayne.</l>
+               </lg>
+               <lg>
+                  <l>This fearefull place is called <hi>Gluttony,</hi>
+                  </l>
+                  <l>Wherein great numbers haue beene cast away,</l>
+                  <l>While as with greedy lust they sayled by,</l>
+                  <l>And ranne their course by negligence astray.</l>
+                  <l>Shun thou this danger, from this mischiefe flye:</l>
+                  <l>Let thousands dying there before thy face,</l>
+                  <l>Example be for thee to shun this place.</l>
+               </lg>
+               <lg>
+                  <l>A wretched vice, a sinfull crime it is,</l>
+                  <l>To pamper vp the flesh with his delight,</l>
+                  <l>Whereby more prone it is to liue amisse,</l>
+                  <l>And apter made for to resist the sprite.</l>
+                  <l>That creature neuer seekes the place of blisse,</l>
+                  <l>That studies here his greedy lust to please,</l>
+                  <l>And to consume his time in rest and ease.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:14"/>
+                  <l>The flesh will neuer here subdued bee,</l>
+                  <l>Nor made obedient to the heauenly minde,</l>
+                  <l>VVhile as we farse it vp in this degree,</l>
+                  <l>VVith meats of euery dainty sort, and kinde.</l>
+                  <l>These fine-fed folks are bent t'affections blinde:</l>
+                  <l>But few of them that vertuous are and chaste,</l>
+                  <l>VVill haue their guttes thus inwardly bumbaste.</l>
+               </lg>
+               <lg>
+                  <l>As wood heapt vp a high vpon the fyre,</l>
+                  <l>Or oyle cast in, doth more augment the heate,</l>
+                  <l>So doth this fond insatiate desire</l>
+                  <l>Of surfetting, and cramming in of meate,</l>
+                  <l>Increase the flame of lecherous desire.</l>
+                  <l>The body is vnmeete to followe good,</l>
+                  <l>While as it is so cherished with food.</l>
+               </lg>
+               <lg>
+                  <l>The feeble brayne with stinking vapours dazed,</l>
+                  <l>That boyling in the stomacke vpward rise,</l>
+                  <l>Astonished, and vtterly amazed,</l>
+                  <l>Cannot aspire vnto the hughty skyes:</l>
+                  <l>So weake it is, and so with surfets crazed,</l>
+                  <l>That it is not applide the way to finde,</l>
+                  <l>For to restraine th' affections of the minde.</l>
+               </lg>
+               <lg>
+                  <l>Oh, what a sort may at this day be found,</l>
+                  <l>That only giue themselues to eate and drinke,</l>
+                  <l>Like brutish beasts, that grazing on the ground,</l>
+                  <l>Continually on nothing els do thinke!</l>
+                  <l>What greater shame to Christians can redound,</l>
+                  <l>Then thus to feed the paunch excessiuely,</l>
+                  <l>That to the soule is such an enemy?</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:15"/>
+                  <l>What folly greater can committed be,</l>
+                  <l>Then where we here may long time liue in health,</l>
+                  <l>With moderate diet and sobriety,</l>
+                  <l>All voyde of sicknesse, that surmounteth wealth,</l>
+                  <l>We rather chuse to liue in misery,</l>
+                  <l>Esteeming more a gracelesse pleasure vayne,</l>
+                  <l>Then for to keepe our bodies out of payne?</l>
+               </lg>
+               <lg>
+                  <l>And whereas Nature doth her selfe content</l>
+                  <l>With slender diet, and so most delights,</l>
+                  <l>Of which God hath sufficient alwayes sent,</l>
+                  <l>To serue our neede, and to refresh our sprites,</l>
+                  <l>We ceasing not to feede with belly bent,</l>
+                  <l>Both God displease, and nature quite destroy,</l>
+                  <l>And for our labour lose eternall ioy.</l>
+               </lg>
+               <lg>
+                  <l>Therefore eschue this beastly greedy mind,</l>
+                  <l>This gurmandize, this filthy foule delight,</l>
+                  <l>For brutish beasts, and not for men assign'd.</l>
+                  <l>Helpe not the flesh to ouerthrow the Sprite,</l>
+                  <l>But helpe the Sprite to daunt affections blind.</l>
+                  <l>So body and soule shall happily agree,</l>
+                  <l>To seeke the skies, where thou shalt blessed bee.</l>
+               </lg>
+               <lg>
+                  <l>Eate not too much, but often vse to fast,</l>
+                  <l>Both Nature bids, and Christ commaundeth so:</l>
+                  <l>Our Fathers old that liu'd in ages past,</l>
+                  <l>Found great reliefe by this in present woe,</l>
+                  <l>Who striuing long, thus tam'd their flesh at last,</l>
+                  <l>While as forbearing meate, and sinne withall,</l>
+                  <l>With feruent prayer on God they vsde to call.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:15"/>
+                  <l>A vertue great is Abstinence, no doubt,</l>
+                  <l>Of euery man to be esteemed much,</l>
+                  <l>A helping hand to them that goe about</l>
+                  <l>The sacred skies with heauenly mind to touch:</l>
+                  <l>No better fence to keepe soules enemy out.</l>
+                  <l>
+                     <hi>Phisicions count it Natures chiefest friend,</hi>
+                  </l>
+                  <l>
+                     <hi>And God himselfe doth highly it commend.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>BEate off therefore, and come not neere the place,</l>
+                  <l>That all embrude with Gluttons blood doth lye,</l>
+                  <l>Whose soules in hell in miserable case,</l>
+                  <l>With pitious playnts, and howling noyses crie,</l>
+                  <l>Lamenting sore their former lacke of grace.</l>
+                  <l>When as thou hast escap't this ieopardy,</l>
+                  <l>Before thy face againe thou shalt descry</l>
+               </lg>
+               <lg>
+                  <l>A gorgeous Ile, an earthly <hi>Paradise,</hi>
+                  </l>
+                  <l>Wherein there wants no kind of pleasant sight,</l>
+                  <l>No glistring show, nor costly fine deuice,</l>
+                  <l>That may encrease the trauellers delight:</l>
+                  <l>The sight hereof reuiues the gazers sprite,</l>
+                  <l>Doth please the eye, and doth allure the mind</l>
+                  <l>Of men that thinke safe harbor there to find.</l>
+               </lg>
+               <lg>
+                  <l>Of compasse large, and full of beauty faire,</l>
+                  <l>The sightly show doth lye before thy face,</l>
+                  <l>Which seemes, as Nature there had set her chayre,</l>
+                  <l>And chosen that her happy resting place:</l>
+                  <l>From whence there comes a sweet perfuming ayre,</l>
+                  <l>With sundry Musike, yeelding heauenly sound,</l>
+                  <l>That in this place may easily be found.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:16"/>
+                  <l>The clyeues are hye, and all of christall shyne,</l>
+                  <l>Vpon the toppe whereof in order growes</l>
+                  <l>Hye haughty trees with maiestie diuine,</l>
+                  <l>That glistring there far off in shadowes shewes:</l>
+                  <l>There stately stands the lofty lordly Pyne,</l>
+                  <l>There, groues of Mirtles, and of Lawrell greene,</l>
+                  <l>With hye-topt Caedars fayre are to be seene.</l>
+               </lg>
+               <lg>
+                  <l>Beyond these same, are mountaines rising hye,</l>
+                  <l>Clad round about with trees of diuers kind,</l>
+                  <l>That, plac't in order, much delight the eye,</l>
+                  <l>And thither drawe the Saylers wandring mind,</l>
+                  <l>Who thinke these hilles do touch the starrie skye:</l>
+                  <l>There, round about in eu'ry place below,</l>
+                  <l>Faire purple <hi>Roses</hi> ioyn'd with <hi>Iasmins</hi> grow.</l>
+               </lg>
+               <lg>
+                  <l>In euery place may beautie there be seene,</l>
+                  <l>In euery place is pleasure for the eye,</l>
+                  <l>Throughout the woods, &amp; pleasant forrests greene,</l>
+                  <l>Great flockes of birds of euery sort doe flye,</l>
+                  <l>Whose curious notes do pearce the azur'd skye,</l>
+                  <l>Collauding heauens with skilfull melodie,</l>
+                  <l>Agreeing all in perfit harmonie.</l>
+               </lg>
+               <lg>
+                  <l>No lothsome sight doth any where appeare,</l>
+                  <l>No thing disordred any kind of way:</l>
+                  <l>But all things shining there with beautie cleare,</l>
+                  <l>Alluring vnto sorrow-sending play,</l>
+                  <l>That they that once do chaunce to trauell neere,</l>
+                  <l>Such pleasure streight way do conceiue in mind,</l>
+                  <l>As no where else, saue there, they thinke to find.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:16"/>
+                  <l>And round about, in euery place they meet,</l>
+                  <l>With shalles of <hi>Maremaids</hi> swimming here &amp; there,</l>
+                  <l>Whose beautie great and pleasant singing sweet,</l>
+                  <l>So daunts the eyes and eates of them that heare,</l>
+                  <l>That maruell 'tis if they do hold their feete:</l>
+                  <l>Their beauty's such, their voyce doth so delight,</l>
+                  <l>That with their tongues they conquer eu'ry wight.</l>
+               </lg>
+               <lg>
+                  <l>Such is the force of this their melodie,</l>
+                  <l>That long time since, and many yeeres agoe,</l>
+                  <l>The wise <hi>Vlisses,</hi> when he passed by,</l>
+                  <l>Being tost on Seas, and beaten to and fro,</l>
+                  <l>Desirous for to heare this harmonie,</l>
+                  <l>Stopt vp his seruants eares with waxe, and fast</l>
+                  <l>Caus'd them to bind himselfe vnto the mast.</l>
+               </lg>
+               <lg>
+                  <l>Thus sayling forward, neere this pleasant place,</l>
+                  <l>With wished winds, and all things seruing meet,</l>
+                  <l>These <hi>Maremaids</hi> faire appear'd before his face,</l>
+                  <l>With shining countenance, and voyces sweet,</l>
+                  <l>Their sundry songs they sung with comely grace:</l>
+                  <l>Their sweet accord, and passing princely sound,</l>
+                  <l>Did from the waues vnto the skies rebound:</l>
+               </lg>
+               <lg>
+                  <l>Which sound when as <hi>Vlysses</hi> streight did heare,</l>
+                  <l>Could not refraine th'affections of his mind,</l>
+                  <l>But lowd he calles with griefe and troubled cheare,</l>
+                  <l>And willes his men, with haste him to vnbind:</l>
+                  <l>Thus calling out, and crying ne're the neere,</l>
+                  <l>He wrests to be vnloosed, but in vayne,</l>
+                  <l>And beates his head against the mast amayne.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:17"/>
+                  <l>His wisedome great could not his fancy guide,</l>
+                  <l>Nor rule his mind, nor bridle his delight:</l>
+                  <l>But if at liberty he had beene vntide,</l>
+                  <l>He would haue leap't amid this pleasant sight,</l>
+                  <l>And left the fruits of pleasure at that tide:</l>
+                  <l>But so fast bound he could not haue his mind,</l>
+                  <l>Till sayling past, it was too farre behind.</l>
+               </lg>
+               <lg>
+                  <l>Yet ne'rethelesse, continually they striue,</l>
+                  <l>The Saylers by, who first may come aland,</l>
+                  <l>With all their sayles clapt on, apace they driue,</l>
+                  <l>And haue no feare of any shore, or sand,</l>
+                  <l>But while they trauell on these Seas aliue,</l>
+                  <l>They forward sayle with greedy lusting mind,</l>
+                  <l>Till torments due to their deserts they find.</l>
+               </lg>
+               <lg>
+                  <l>Alas, how great, and worthy a company</l>
+                  <l>Haue here beene lost, and cleerely cast away,</l>
+                  <l>Whose wits diuine, of worthy memory,</l>
+                  <l>Are talk't on yet vntill this present day,</l>
+                  <l>Who had escap't each other misery,</l>
+                  <l>And with their vertues rare had glistred bright,</l>
+                  <l>If that they could haue shun'd this fowle delight?</l>
+               </lg>
+               <lg>
+                  <l>The mightie <hi>Herc'les</hi> that liu'd long agoe,</l>
+                  <l>Whose worthy acts deseru'd immortall fame,</l>
+                  <l>Who spent his dayes in anguish and in woe,</l>
+                  <l>Not bent to pleasure, nor inclin'd to game,</l>
+                  <l>But followed vertue, which he sought for so,</l>
+                  <l>Could not escape this heart-breake vayne delight,</l>
+                  <l>But crost himselfe for lacke of due foresight.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:17"/>
+                  <l>The subtill wit, and iudgement so profound,</l>
+                  <l>That paynted vertue liuely to the eye,</l>
+                  <l>Who shew'd the harmes and hurts of vice vnsound,</l>
+                  <l>And op'ned playne the place whereas they lye:</l>
+                  <l>The selfe same man, that once such fauour found</l>
+                  <l>At <hi>Delphos,</hi> that he got the soueraignty,</l>
+                  <l>Yet ran vpon this danger passing by.</l>
+               </lg>
+               <lg>
+                  <l>A thousand such in Stories old we find:</l>
+                  <l>Of sundry like our sacred Volumes tell,</l>
+                  <l>That ran amisse vpon this fancy blind,</l>
+                  <l>For lacke of good aduice, and guiding well:</l>
+                  <l>Yea, though they wholly did apply their mind</l>
+                  <l>To euery vertue, yet did this way stray:</l>
+                  <l>Example, he, with <hi>Vryes</hi> wife that lay.</l>
+               </lg>
+               <lg>
+                  <l>Amongst the dangers of these harmefull Seas,</l>
+                  <l>No perill like to these there comes in sight,</l>
+                  <l>That more doth worke the passengers disease,</l>
+                  <l>Or driues them more to shew their force and might,</l>
+                  <l>Nor no men more th'Almightie Lord displease.</l>
+                  <l>VVherefore we ought with heed, and carefull eye,</l>
+                  <l>With might and mayne, from lusts delights to flye,</l>
+               </lg>
+               <lg>
+                  <l>And often weigh the mischiefe that will rise,</l>
+                  <l>If we do leaue our happy course to keepe,</l>
+                  <l>For vaine delight, that here deludes the eyes,</l>
+                  <l>And bringeth men in restlesse rest asleepe.</l>
+                  <l>Nay, rather let vs flattring shewes despise,</l>
+                  <l>Which for a little trifling pleasure vayne,</l>
+                  <l>Do bring vs vnto euerlasting payne.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:18"/>
+                  <l>Direct thy ship and course another way;</l>
+                  <l>Remember stil how happy they shall be,</l>
+                  <l>That haue not falne vpon this Ile astray,</l>
+                  <l>Where fleshly ioyes and foolish fancies bee:</l>
+                  <l>But do themselues with all their might assay,</l>
+                  <l>To put away each storme and troublous winde,</l>
+                  <l>That blowes contrary to their vertuous mind:</l>
+               </lg>
+               <lg>
+                  <l>And weigh the paynes and torments they shall haue,</l>
+                  <l>That giue themselues to follow fowle delight,</l>
+                  <l>And breake the lawes, that God to all men gaue,</l>
+                  <l>How they shall wayle, and howle in pitious plight,</l>
+                  <l>When that their body's seu'red from their sprite:</l>
+                  <l>Which sprite shall neuer feele release of payne,</l>
+                  <l>As long as God doth in the heauens raigne.</l>
+               </lg>
+               <lg>
+                  <l>Although the motions of the flesh be much,</l>
+                  <l>And that our nature herein beares some sway:</l>
+                  <l>Yet ought the force of reason to be such</l>
+                  <l>In man, as well may put such toyes away.</l>
+                  <l>The mind diuine must not so basely touch,</l>
+                  <l>But mount aloft with wings vnto the skyes,</l>
+                  <l>Where perfit ioy, and perfit pleasure lyes.</l>
+               </lg>
+               <lg>
+                  <l>For earthly ioyes and fancies are vnmeete</l>
+                  <l>For such as God appoynts with him to liue,</l>
+                  <l>Who ought t'al and on all such pleasures sweete,</l>
+                  <l>As vse whereof may them offend, or grieue:</l>
+                  <l>Not euery shew, nor euery path beleeue:</l>
+                  <l>But onely walke in that appointed way,</l>
+                  <l>That God himselfe before thine eyes doth lay:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:18"/>
+                  <l>And flye the pathes, although they pleasant seeme,</l>
+                  <l>That he hath here forbidden to be trode,</l>
+                  <l>And cast away all fond affections cleane,</l>
+                  <l>The weight whereof the soule so sore doth lode,</l>
+                  <l>That languishing vpon the earth with teene,</l>
+                  <l>Constrayned is there for to dwell and lye,</l>
+                  <l>And neuer can aspire to heauens hye.</l>
+               </lg>
+               <lg>
+                  <l>And as <hi>Vlisses</hi> passing by this place,</l>
+                  <l>Where <hi>Maremaids</hi> flocke, whereof is spoke before,</l>
+                  <l>(Whose sugred songs, and loue-pretending face,</l>
+                  <l>Did seeke to trayne him to that deadly shore)</l>
+                  <l>Withstood (by wise aduice) their flattring lore,</l>
+                  <l>Causing his men to bind him to the mast,</l>
+                  <l>Whereby that danger graciously he past:</l>
+               </lg>
+               <lg>
+                  <l>So in these Seas of pleasures, lest we quayle,</l>
+                  <l>We ought to bind our wils to <hi>Reason</hi> strong,</l>
+                  <l>As to the mast, that beares our chiefest sayle,</l>
+                  <l>And guides vs best throughout this iourney long:</l>
+                  <l>For so we shall escape this deadly song,</l>
+                  <l>That hath bewitch't so many vertuous eares,</l>
+                  <l>And brought them vnto torments and to teares.</l>
+               </lg>
+               <lg>
+                  <l>But if there doe such punishment remayne</l>
+                  <l>For those, which (while they vertuous seeke to be)</l>
+                  <l>Doe fall into this lake of pleasures vayne,</l>
+                  <l>Whereby they come to greatest miserie,</l>
+                  <l>Condemned vnto neuer-ceasing payne,</l>
+                  <l>Shut out from that faire-shining beautie bright,</l>
+                  <l>That farre surmounts all other kind of sight:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:19"/>
+                  <l>If those (I say) such torments haue to taste,</l>
+                  <l>What plagues are due vnto that sinfull sort,</l>
+                  <l>That both with mind vncleane, and toung vnchaste,</l>
+                  <l>Of lothsome vice make but a play and sport?</l>
+                  <l>And where they ought not spend a word in waste,</l>
+                  <l>They vtter out the filthiest words they can,</l>
+                  <l>Without respect of either God or man,</l>
+               </lg>
+               <lg>
+                  <l>Contenting not themselues with wicked deeds</l>
+                  <l>Alone, to passe away their sinfull race:</l>
+                  <l>But with such words as filthily proceeds</l>
+                  <l>From out their hearts, defiling eu'ry place.</l>
+                  <l>As noysome weeds the freshest flowres deface:</l>
+                  <l>So do these beasts with tongue and talke vncleane,</l>
+                  <l>Defile eche thing that fayrest may be seene,</l>
+               </lg>
+               <lg>
+                  <l>With words vnseemely, that vncleannesse sound,</l>
+                  <l>These harlot-hunters doe themselues delight,</l>
+                  <l>Corrupting minds that otherwise were sound,</l>
+                  <l>With speach vnpure, and wanton gesture light,</l>
+                  <l>Wherein they're skild, as in their arte profound:</l>
+                  <l>Their shamelesse toungs, while as their acts they tell,</l>
+                  <l>Doe cause the deuill himselfe to blush in hell.</l>
+               </lg>
+               <lg>
+                  <l>Most wretched men, that lead your liues with shame,</l>
+                  <l>And dye like beasts, in miserable plight:</l>
+                  <l>The paynes of hell is end of all your gayne.</l>
+                  <l>Each damned soule shall feele his torment light,</l>
+                  <l>Respecting yours, who for your foule delight,</l>
+                  <l>Farre passe them all in torments and in payne:</l>
+                  <l>
+                     <hi>This is your end, and your assured gayne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:19"/>
+                  <l>Let this suffice to giue thee warning here,</l>
+                  <l>That saylest neere this care-procuring place,</l>
+                  <l>Although the beauty fayre at first appeare,</l>
+                  <l>Thou seest the end, how in most wretched case</l>
+                  <l>They plagued are, and buy their pleasure deare.</l>
+                  <l>Then leaue betimes, and sayle another way.</l>
+                  <l>
+                     <hi>It is not good with dangers for to play.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And take good heed: for streight before thy face,</l>
+                  <l>Amid these Seas, another danger lyes,</l>
+                  <l>That bearing vp his head a little space,</l>
+                  <l>Aboue the water, oft deceiues the eyes,</l>
+                  <l>By which a number haue complaynd their case.</l>
+                  <l>The shew is small, that doth appeare on hye:</l>
+                  <l>The chiefest harme doth vnder water lye.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>THe top whereof is smoothly polished,</l>
+                  <l>And doth not threaten hazzard with the show,</l>
+                  <l>By which haue many bene seduc'd and led</l>
+                  <l>To trauell neere, the state thereof to know;</l>
+                  <l>Who with their ships haue but in ill sort sped,</l>
+                  <l>Being all to torne a pieces, forc't to flye,</l>
+                  <l>Their masters sprawling on the surges hye.</l>
+               </lg>
+               <lg>
+                  <l>The lustiest Saylors haue bene drowned here,</l>
+                  <l>Whose Barkes haue borne the brauest port on Seas,</l>
+                  <l>For manly shew, and stomacks voyd of feare,</l>
+                  <l>While as they sayl'd which way them best did please,</l>
+                  <l>Who counsell none, nor no aduice would heare,</l>
+                  <l>Still trusting to their owne deceiued wit,</l>
+                  <l>From whose selfe-wil they would not stirre a whit:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:20"/>
+                  <l>Nor cast they here themselues away alone,</l>
+                  <l>But cause great numbers more their course to misse,</l>
+                  <l>Perswading them, that neere vnto this stone</l>
+                  <l>Doth lye the way to euerlasting blisse,</l>
+                  <l>Assuring them that danger there is none:</l>
+                  <l>By which vayne words they cause the simple men</l>
+                  <l>To cast away themselues by following them.</l>
+               </lg>
+               <lg>
+                  <l>This dangerous place that hath so many lost,</l>
+                  <l>And thus beguild, is called <hi>Heresy:</hi>
+                  </l>
+                  <l>A hurtfull place, a most pernitious coast,</l>
+                  <l>A wofull rocke, a wretched ieopardy,</l>
+                  <l>And hurts <hi>the Nauy of Christianity:</hi>
+                  </l>
+                  <l>Which gorgeous fleet had long time since beene drent,</l>
+                  <l>If mighty <hi>Ioue</hi> had not them succour lent,</l>
+               </lg>
+               <lg>
+                  <l>Who pitying them of his accustom'd grace,</l>
+                  <l>When as they were with stormes and tempests tost,</l>
+                  <l>And euen at point to fall vpon this place,</l>
+                  <l>Whereas they had beene altogether lost,</l>
+                  <l>Lamenting, as it were, their wretched case,</l>
+                  <l>Rebuk't the winds, and tooke the Helme in hand,</l>
+                  <l>And brought them safe vnto th'assured land.</l>
+               </lg>
+               <lg>
+                  <l>A happy guide in these so dreadfull Seas,</l>
+                  <l>Whose blessed ayde if all men erst had sought</l>
+                  <l>With humble mind, in seeking him to please,</l>
+                  <l>And setting all their owne deuice at nought,</l>
+                  <l>They had not purchast thus their owne disease,</l>
+                  <l>Nor had they left behind them such a fame,</l>
+                  <l>As hitherto the world resounds with shame.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:20"/>
+                  <l>
+                     <hi>Cerinthus</hi> had not cast himselfe away</l>
+                  <l>Vpon this rocke, in such lamented plight:</l>
+                  <l>Nor <hi>Eutyches</hi> had past this wretched way,</l>
+                  <l>If seruing God had beene his chiefe delight:</l>
+                  <l>Nor had <hi>Nouatus</hi> on this mischiefe light,</l>
+                  <l>Nor <hi>Arrius</hi> with his <hi>Arrians</hi> here had dide,</l>
+                  <l>Nor all the swarme of <hi>Manicheyes</hi> beside;</l>
+               </lg>
+               <lg>
+                  <l>With thousands more, that here I lothe to name,</l>
+                  <l>Who might haue scap't this dreadfull place full well,</l>
+                  <l>That brought them vnto euerlasting shame,</l>
+                  <l>And threw them headlong to the pit of hell,</l>
+                  <l>Whereas they wayle in neuer-ceasing flame,</l>
+                  <l>If they had sought this safe-assured ayde,</l>
+                  <l>And vnto him for helpe had alwayes prayd.</l>
+               </lg>
+               <lg>
+                  <l>Take thou good heed, that trauellest hereby,</l>
+                  <l>Lest that thou fall vpon this hurtfull place:</l>
+                  <l>Beware of <hi>Schisme:</hi> Beware of <hi>Heresie,</hi>
+                  </l>
+                  <l>And pray to God continually for grace,</l>
+                  <l>That he may keepe thee from this misery,</l>
+                  <l>In giuing thee a quicke and watchfull eye,</l>
+                  <l>Whereby thou mayst such couert dangers flye.</l>
+               </lg>
+               <lg>
+                  <l>Looke well about, and trust not euery sprite,</l>
+                  <l>That seemes to teach the safe-assured way,</l>
+                  <l>Be well assur'd he teach the way aright,</l>
+                  <l>Or walke nor thou else, after him astray.</l>
+                  <l>The Deuill himselfe can seeme an Angell bright.</l>
+                  <l>But Christ hath left you here his Scriptures playne,</l>
+                  <l>A touch-stone true to trye Religion vayne.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:21"/>
+                  <l>By these examine eu'ry prating sprite,</l>
+                  <l>By these goe trie what vnto thee is taught,</l>
+                  <l>Let these be Iudge who teacheth wrong or right,</l>
+                  <l>Let these discerne the good things from the nought,</l>
+                  <l>Of these in darknesse borrow all thy light:</l>
+                  <l>So shalt thou able be thy selfe to trye,</l>
+                  <l>Where shaddowes false, and where deceit doth lye.</l>
+               </lg>
+               <lg>
+                  <l>Beleeue not those same slandrous mouthes vntrue,</l>
+                  <l>Who make report, how that the Bookes diuine</l>
+                  <l>Corrupted are with false translations new:</l>
+                  <l>Onely of malice they do thus repine;</l>
+                  <l>They see the Spirit of God will them subdue:</l>
+                  <l>And therefore for to bring them in contempt,</l>
+                  <l>These slandrous lyes maliciously th' inuent.</l>
+               </lg>
+               <lg>
+                  <l>As he that late such needlesse paynes did take,</l>
+                  <l>In culling out the faults he could espy,</l>
+                  <l>Of euery tittle straight account doth make,</l>
+                  <l>In noting where he thinkes they runne awry.</l>
+                  <l>Yet if thou shalt his worthy iudgement trye,</l>
+                  <l>Thou well shalt see, his folly-full-fed brayne</l>
+                  <l>Hath taken all his trauell here in vayne.</l>
+               </lg>
+               <lg>
+                  <l>Beside, another marke there is to know</l>
+                  <l>These wretched sprites, that leade men thus to hell:</l>
+                  <l>Though clad in pelts of sheepe, they simple show,</l>
+                  <l>And many tales of God and heauen tell,</l>
+                  <l>Yet malice doth their minds so ouerflow,</l>
+                  <l>Their bloody teeth do still appeare in sight,</l>
+                  <l>Wherewith like Wolues continually they fight.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:21"/>
+                  <l>Example one, amongst a number more,</l>
+                  <l>Let <hi>Arrius</hi> be, who, whil'st he here did raigne,</l>
+                  <l>Of torments great, and tortures had much store,</l>
+                  <l>Wherewith he put true Christians still to payne,</l>
+                  <l>With sundry deaths, not heard of oft before,</l>
+                  <l>As splintars sharp of Reeds, which sore did prick,</l>
+                  <l>As twixt the nayles and flesh the same did stick.</l>
+               </lg>
+               <lg>
+                  <l>That deuillish mind that raigneth now in hell,</l>
+                  <l>Doth still enuy the happy state of man;</l>
+                  <l>And since the time that first to earth he fell,</l>
+                  <l>He laboureth by all the meanes he can,</l>
+                  <l>To cause them all in paynes with him to dwell,</l>
+                  <l>Continuing still with rancour and with heate,</l>
+                  <l>To persecute that happie heauenly seate.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Chrysostome</hi> he, that long agoe hath tride</l>
+                  <l>These brittle Seas, and searched eu'ry place,</l>
+                  <l>Who had good proofe of eu'ry wind and tide,</l>
+                  <l>And well could sayle to find the port of grace,</l>
+                  <l>Declar'd which way these people might be spide,</l>
+                  <l>And gaue plaine token how we well should know</l>
+                  <l>These Barks of <hi>Schisme</hi> that on these Seas do row:</l>
+               </lg>
+               <lg>
+                  <l>Did euer yet (sayth he) the simple sheepe</l>
+                  <l>With bloody mouth the greedie Woolfe pursue?</l>
+                  <l>Not once: But rauening Woolues do neuer sleepe</l>
+                  <l>From hunting them: So <hi>Cain</hi> poore <hi>Abel</hi> slew:</l>
+                  <l>Not <hi>Abel</hi> him: So <hi>Ismael Isaac</hi> true</l>
+                  <l>Did persecute: not <hi>Isaac</hi> him. The <hi>Iew</hi>
+                  </l>
+                  <l>Thus troubled Christ; and <hi>Heretikes,</hi> Christians true.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:22"/>
+                  <l>Thus playnely did this skilfull Father old</l>
+                  <l>Conclude, that such as beare such hatefull minde</l>
+                  <l>Against the flocke, and happy harmelesse fold</l>
+                  <l>Of Christ, still following them with malice blind,</l>
+                  <l>To be the Wolues, of whome our Sauiour told.</l>
+                  <l>
+                     <hi>The Wolfe by raueuing euermore is 'tride.</hi>
+                  </l>
+                  <l>
+                     <hi>The Heretike by cruell mind is spide.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Then since thou mayst full well discerne this ill,</l>
+                  <l>Sayle farre from hence, and steare aduisedly,</l>
+                  <l>And guide thy selfe by good and carefull skill;</l>
+                  <l>So shalt thou misse this fearefull ieopardy.</l>
+                  <l>Giue not the reynes and bridle vnto will,</l>
+                  <l>But make it subiect to the motions hye,</l>
+                  <l>That thou mayst saue thy selfe, and dangers flye.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>YEt once againe thou needst to take good heed:</l>
+                  <l>For hereabouts an Iland fayre doth lye,</l>
+                  <l>That to the Saylers mischiefe great doth breed,</l>
+                  <l>That flames farre off, like <hi>Phoebus</hi> in the skye.</l>
+                  <l>Which glistring sight the gazers mind doth feede,</l>
+                  <l>Perswading them some worthy sight is there,</l>
+                  <l>That so encompast is with shining cleere.</l>
+               </lg>
+               <lg>
+                  <l>In euery place <hi>Pyramides</hi> here rise,</l>
+                  <l>With costly stones compact of gorgeous show,</l>
+                  <l>Whose stately toppes do seeme to touch the skyes:</l>
+                  <l>The bases square are framed fayre below,</l>
+                  <l>With such proportions as best please the eyes,</l>
+                  <l>Adorned braue with Torches flaming bright,</l>
+                  <l>That seeme to spoyle the day it selfe of light.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:22"/>
+                  <l>A thousand Altars garnisht here do stand,</l>
+                  <l>With cloth of gold, and purple passing fayre,</l>
+                  <l>And fires burning hie on eu'ry hand,</l>
+                  <l>Where Incense cast, doth cause a pleasant ayre;</l>
+                  <l>And thither blinded men make their repayre.</l>
+                  <l>On eu'ry Altar Images appeare,</l>
+                  <l>Of sundry gods, that people worship there.</l>
+               </lg>
+               <lg>
+                  <l>There <hi>Saturne</hi> stands with enuious count'nance sad,</l>
+                  <l>And next to him hath <hi>Iupiter</hi> his place,</l>
+                  <l>And <hi>Venus</hi> smiling fayre with beautie glad,</l>
+                  <l>And fuming <hi>Mars</hi> with hote and fiery face,</l>
+                  <l>And <hi>Dian</hi> with her siluer-shining grace:</l>
+                  <l>Swift <hi>Mercury</hi> amongst them here doth stand,</l>
+                  <l>With flickring wings, and golden rod in hand.</l>
+               </lg>
+               <lg>
+                  <l>Great <hi>Bacchus</hi> heere is plac't with Maiestie,</l>
+                  <l>And neere to him Dame <hi>Ceres</hi> may be seene,</l>
+                  <l>And <hi>Proserpine</hi> that low beneath doth lye,</l>
+                  <l>And <hi>Iuno</hi> once of heauen counted Queene,</l>
+                  <l>And <hi>Berecynthya,</hi> mother of the skye:</l>
+                  <l>Here <hi>Castor</hi> ioyn'd with <hi>Pollux</hi> fayre doth stand,</l>
+                  <l>And <hi>Esculapius</hi> with his Snakes in hand.</l>
+               </lg>
+               <lg>
+                  <l>On other Altars ioyning thereto neere,</l>
+                  <l>A number great of pictures placed be,</l>
+                  <l>That monstrous to the lookers on appeare;</l>
+                  <l>As one, that pourtrayde is with faces three,</l>
+                  <l>Another holding in his hand a tree,</l>
+                  <l>And wading ouer riuers easily,</l>
+                  <l>With monstrous legs, &amp; shoulders shameful hye.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:23"/>
+                  <l>But most of all, that makes men there to muse,</l>
+                  <l>There stands a Saint in strange disguised sort,</l>
+                  <l>To take't for man or woman, you may chuse:</l>
+                  <l>For of them both it seemes to beare a port,</l>
+                  <l>Arrayde in gownes, as women most doe vse,</l>
+                  <l>And thus disguis'd in strange and masking coates,</l>
+                  <l>Esteemes no other offring here, then Oates.</l>
+               </lg>
+               <lg>
+                  <l>A number great of such strange pictures vayne</l>
+                  <l>Here mayst thou see, of whom it needs not tell,</l>
+                  <l>That vnto Priests haue alwayes bene a gayne,</l>
+                  <l>And led such as them worshipt, vnto hell;</l>
+                  <l>Here are the Saints to whom the Turke doth yell:</l>
+                  <l>As <hi>Vanus</hi> and <hi>Sedichasis,</hi> that victorie doth bring,</l>
+                  <l>With <hi>Mircichinus</hi> and <hi>Ascichum,</hi> &amp; <hi>Chiderell</hi> the King.</l>
+               </lg>
+               <lg>
+                  <l>Before eche image, Tapers burning bright,</l>
+                  <l>And Odours sweete doe fume continually,</l>
+                  <l>The people kneeling round about in sight,</l>
+                  <l>With hands held vp, and voyces lowd doe cry;</l>
+                  <l>Eche one complayning of his wretched plight,</l>
+                  <l>Doe call vpon their gods with feruent minde,</l>
+                  <l>Supposing thus a perfit helpe to finde.</l>
+               </lg>
+               <lg>
+                  <l>This dangerous place is cal'd <hi>Idolatry,</hi>
+                  </l>
+                  <l>Whereon are lost the Turks and Pagans all,</l>
+                  <l>That hither still in swarming flocks doe flye,</l>
+                  <l>Not fearing mischiefe that may them befall:</l>
+                  <l>And numbers great of Christians here doe dye,</l>
+                  <l>That leauing Christ, to Idoles fast do sing,</l>
+                  <l>Which is detested of th' Almighty King:</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:23"/>
+                  <l>For nothing doth so much the mind offend</l>
+                  <l>Of that most sacred Maiestie diuine;</l>
+                  <l>Nor nothing makes him more his plagues to send,</l>
+                  <l>Then when he sees his seruants to decline</l>
+                  <l>From seruing him, to seeke another friend:</l>
+                  <l>This more doth him displease assuredly,</l>
+                  <l>Then any whore dome, theft, or robbery.</l>
+               </lg>
+               <lg>
+                  <l>Him liketh to be worshipped alone,</l>
+                  <l>With earnest mind, and with vnfayned heart:</l>
+                  <l>Who worships him, must worship others none.</l>
+                  <l>It is not meet for any to giue part</l>
+                  <l>Of honour due to him, vnto a stone:</l>
+                  <l>For who so doth, shall feele his torments due,</l>
+                  <l>For worshipping false gods, and gods vntrue.</l>
+               </lg>
+               <lg>
+                  <l>This only cause did make him oft forsake</l>
+                  <l>His chosen flocke, the ancient Israelites,</l>
+                  <l>Who, though with mouth he often to them spake,</l>
+                  <l>Appoynting to them sacred lawes and rites,</l>
+                  <l>Yet euermore his ord'nances they brake:</l>
+                  <l>In eu'ry groue, on eu'ry wood and hill,</l>
+                  <l>They Idols plac't contrarie to his will:</l>
+               </lg>
+               <lg>
+                  <l>For which, he often gaue them ouer quite</l>
+                  <l>Into the hands of cruell enemies,</l>
+                  <l>Who dealt with them in payne-inflicting plight,</l>
+                  <l>Vexing them still with fearefull tyrannies,</l>
+                  <l>Compeld to suffer thousand cruelties,</l>
+                  <l>Accounted slaues and abiects clearely lost,</l>
+                  <l>That erst of all men were esteemed most.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:24"/>
+                  <l>For this, poore Christians oftentimes haue felt</l>
+                  <l>The vsage vile, and force of Turkish hands,</l>
+                  <l>That many yeeres haue with them euill delt,</l>
+                  <l>Depriuing them of children, wife, and lands,</l>
+                  <l>Since first of Idoles they the seruice smelt,</l>
+                  <l>Decayd their vertues, lost their ancient fame,</l>
+                  <l>And made them to the world an open shame.</l>
+               </lg>
+               <lg>
+                  <l>Therefore beware, and shun this filthy place.</l>
+                  <l>Let <hi>Paul</hi> thy Pilot be vpon these Seas,</l>
+                  <l>Who sayth, Idolaters shall not the face</l>
+                  <l>Of God, or see, or find the Port of ease:</l>
+                  <l>For Idole-seruers are depriu'd of grace:</l>
+                  <l>Such kind of seruants onely he desires,</l>
+                  <l>As seeke to serue him as himselfe requires.</l>
+               </lg>
+               <lg>
+                  <l>All other seruice he esteemes as vayne;</l>
+                  <l>And most he hates such fond religion blind,</l>
+                  <l>As is deuis'd by dreame of foolish brayne:</l>
+                  <l>That worship onely doth delight his mind,</l>
+                  <l>That he himselfe hath taught in Scriptures playne:</l>
+                  <l>He suffers not to honour this or that;</l>
+                  <l>But playnely hath himselfe appoynted what.</l>
+               </lg>
+               <lg>
+                  <l>Serue thou him therefore, as he liketh best;</l>
+                  <l>With all thy heart, with all thy mind him loue;</l>
+                  <l>Let him be highest alwayes in thy brest:</l>
+                  <l>Take heed that none be placed him aboue.</l>
+                  <l>Esteeme no creature so aboue the rest,</l>
+                  <l>That loue thereof shall him from thee remoue:</l>
+                  <l>For that he doth in all his word reproue.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:24"/>
+                  <l>Not onely Image-seruers haue the name</l>
+                  <l>Of blind Idolaters, but eu'ry such,</l>
+                  <l>That inwardly with feruent loue doth flame,</l>
+                  <l>Esteeming fading fancies here, too much,</l>
+                  <l>Preferring them before all feare, or shame:</l>
+                  <l>These kind of loues, when in the heart they lye,</l>
+                  <l>Are surest signes of vile Idolatry.</l>
+               </lg>
+               <lg>
+                  <l>Farre off from this see therefore that thou flye,</l>
+                  <l>If thou intend the Hauen fayre to finde:</l>
+                  <l>For who so toucheth on this same, shall dye,</l>
+                  <l>In suffring ship-wracke, through his folly blinde.</l>
+                  <l>Keepe then the ioyfull Hauen still in minde,</l>
+                  <l>Whose pleasures great shall fully thee reward,</l>
+                  <l>For all thy paynes, and all thy trauels hard.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>ANother danger lyes there in the way,</l>
+                  <l>That seemeth good and safe vnto the eye,</l>
+                  <l>Whereat a number great of Shippes doe stay,</l>
+                  <l>That here are lost, or put in ieopardy,</l>
+                  <l>With colour false of good it doth betray,</l>
+                  <l>And most allures such men as seeke for fame:</l>
+                  <l>
+                     <hi>Hypocrisy</hi> this mischiefe hath to name.</l>
+               </lg>
+               <lg>
+                  <l>A rocke but soft and simple to the eye,</l>
+                  <l>That pleaseth much the mind of worldly sight,</l>
+                  <l>Whereas deceit doth closly couered lye,</l>
+                  <l>Which hindreth men from trauelling aright:</l>
+                  <l>Vpon the top whereof in open place,</l>
+                  <l>There stands an Image couered all of stone,</l>
+                  <l>That there was placed many yeeres agone.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:25"/>
+                  <l>Which Image here I would describe to thee,</l>
+                  <l>But that long since it hath bene paynted playne</l>
+                  <l>By learned <hi>Chancer,</hi> gemme of Poetry,</l>
+                  <l>Who past the reach of any English brayne:</l>
+                  <l>A folly therefore were it here for me,</l>
+                  <l>To touch that he did often vse to say,</l>
+                  <l>Writ in the <hi>Romant</hi> of his Roses gay.</l>
+               </lg>
+               <q>
+                  <lg>
+                     <l>ANother thing was done, they write,</l>
+                     <l>That seemed like an Hypocrite,</l>
+                     <l>And it was cleeped Pope holy,</l>
+                     <l>That ill is she that priuily,</l>
+                     <l>Ne spareth neuer a wicked deed,</l>
+                     <l>When men of her taken none heed,</l>
+                     <l>And maketh her outward precious,</l>
+                     <l>With pale visage, and pitious,</l>
+                     <l>And seemeth a simple creature:</l>
+                     <l>But there nys no misaduenture,</l>
+                     <l>That she ne thinketh in her courage.</l>
+                     <l>Full like to her was thilke Image,</l>
+                     <l>That maked was byt her semblance,</l>
+                     <l>She was full simple of count'nance,</l>
+                     <l>And she was clothed and eke shod,</l>
+                     <l>As she were for the loue of God,</l>
+                     <l>Youlden to Religion,</l>
+                     <l>Such seemed her deuotion.</l>
+                     <l>A Psalter held she fast in hond,</l>
+                     <l>And busily she gan to fond,</l>
+                     <l>To make many a faint prayer</l>
+                     <l>To God, and to his Saints deare.</l>
+                     <pb facs="tcp:177869:25"/>
+                     <l>Ne she was gay, fresh, and iolliff,</l>
+                     <l>But seem'd to be full intentiff</l>
+                     <l>To good workes, and to faire,</l>
+                     <l>And thereto she had on a hayre,</l>
+                     <l>Ne certes she was fat nothing,</l>
+                     <l>But seemed weary for fasting:</l>
+                     <l>Of colour pale, and dead was shee,</l>
+                     <l>From her the gates aye warned be,</l>
+                     <l>Of <hi>Paradice,</hi> the blisfull place.</l>
+                     <l>For such folke maken leane their grace,</l>
+                     <l>As Christ saith in his <hi>Euangile,</hi>
+                     </l>
+                     <l>To get their praise in towne a while,</l>
+                     <l>And for a little glorie vayne,</l>
+                     <l>They leesen God, and eke his raigne.</l>
+                  </lg>
+               </q>
+               <lg>
+                  <l>THus hath the golden pen of <hi>Chaucer</hi> old,</l>
+                  <l>The Image playne described to the eye:</l>
+                  <l>Who passing by long since, did it behold,</l>
+                  <l>And tooke a note thereof aduisedly,</l>
+                  <l>And left the same to his posterity,</l>
+                  <l>That each man passing by, might playnely know</l>
+                  <l>The perfit substance of that flattring show.</l>
+               </lg>
+               <lg>
+                  <l>An enemy great vnto the Christian fleete,</l>
+                  <l>It this fowle rocke of false <hi>Hypocrisie,</hi>
+                  </l>
+                  <l>That vs depriueth of the pleasure sweete,</l>
+                  <l>And brings our soules to greatest misery:</l>
+                  <l>A vice vnmeete for <hi>Christianity.</hi>
+                  </l>
+                  <l>Eschew it then, and farre off from him flye,</l>
+                  <l>Let not such blind affections bleare thine eye.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:26"/>
+                  <l>Seeke rather good to be, then good to seeme;</l>
+                  <l>Seeke so to liue, as thou doest here professe:</l>
+                  <l>So shall both God and man thee best esteeme;</l>
+                  <l>So shalt thou perfit Christian life expresse.</l>
+                  <l>What good doth it, when men thee godly deeme?</l>
+                  <l>Although thou mayst dissemble for a while,</l>
+                  <l>Yet God thou canst not long time thus beguile.</l>
+               </lg>
+               <lg>
+                  <l>His eye doth still discerne thy inward thought;</l>
+                  <l>Thy secret dealings well he doth behold,</l>
+                  <l>And all thy deeds in hucker-mucker wrought,</l>
+                  <l>At length before the world he shall vnfold:</l>
+                  <l>To what a misery shalt thou then be brought,</l>
+                  <l>When all thy filthy vices there shall smoake,</l>
+                  <l>That here were hidden vnder godly cloake?</l>
+               </lg>
+               <lg>
+                  <l>Christ hath vs taught for to abhorre this crime,</l>
+                  <l>When as he curs'd the <hi>Scribes</hi> and <hi>Pharises,</hi>
+                  </l>
+                  <l>Who seem'd the godliest liuers at that time,</l>
+                  <l>All garnisht outward with <hi>Hypocrisies,</hi>
+                  </l>
+                  <l>As though they dayly staffe by staffe did clime,</l>
+                  <l>By godly life to reach the haughtie skies,</l>
+                  <l>Whereas their hearts were full of villaynies.</l>
+               </lg>
+               <lg>
+                  <l>Oh, what a number at this present day,</l>
+                  <l>Doe swarme in eu'ry towne, in eu'ry place,</l>
+                  <l>That, <hi>God be thank'd,</hi> and <hi>God be prais'd,</hi> can say,</l>
+                  <l>With gesture mild, and fayned godly grace,</l>
+                  <l>Who crowching low before men, fast can pray!</l>
+                  <l>And yet for all this shew and goodly geare,</l>
+                  <l>Deceitfull knaues at length they doe appeare,</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:26"/>
+                  <l>Beguiling men, that put in them their trust,</l>
+                  <l>Oppressing poore men by sinister wayes,</l>
+                  <l>Without all conscience, words and deeds vniust;</l>
+                  <l>Yet would they seeme, as though they God did praise;</l>
+                  <l>Whereas (in deed) these cursed cast-awayes</l>
+                  <l>Doe neuer worship any God in minde,</l>
+                  <l>But alwayes serue their owne affections blinde.</l>
+               </lg>
+               <lg>
+                  <l>Oh, sinfull men, what meane you thus to deale</l>
+                  <l>So couertly before the face of God?</l>
+                  <l>Be well assur'd you cannot long conceale;</l>
+                  <l>Be well assur'd you cannot scape his rod;</l>
+                  <l>Your wretched deeds in time he will reueale,</l>
+                  <l>When as your masking garments, so long worne,</l>
+                  <l>Shall all be rent, and from your shoulders torne.</l>
+               </lg>
+               <lg>
+                  <l>Your paynted vizard shall be pluckt away,</l>
+                  <l>Wherewith so many here you did deceaue,</l>
+                  <l>And all your curious counterfet array,</l>
+                  <l>You shall be forc't, against your will, to leaue:</l>
+                  <l>Those purple garments, which make you so gay,</l>
+                  <l>Shall off be pluckt, and all things else beside,</l>
+                  <l>And then the bare-arst <hi>Ape</hi> shall playne be spide.</l>
+               </lg>
+               <lg>
+                  <l>Sayle thou not neere this cursed wretched place,</l>
+                  <l>That seekst the happie Hauen for to find;</l>
+                  <l>Cry out to God, and call for better grace;</l>
+                  <l>Commit thy sayles vnto a better wind;</l>
+                  <l>Eschew the looke of false dissembling face:</l>
+                  <l>So shalt thou sooner find the Port of blisse,</l>
+                  <l>Which cursed <hi>Hypocrites</hi> shall surely misse.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177869:27"/>
+               <lg>
+                  <l>ADuaunce thy tops, hang out thy Flags abroad,</l>
+                  <l>The greatest danger thou hast trauel'd by,</l>
+                  <l>And neere thou art vnto the happy Road:</l>
+                  <l>The other perils in the way that lye,</l>
+                  <l>May well be past, and well be ouertrode:</l>
+                  <l>For none doe perish here in any place,</l>
+                  <l>But such as are both voyd of wit and grace.</l>
+               </lg>
+               <lg>
+                  <l>Cast feare away, and take a lustie heart;</l>
+                  <l>Reuiue thy sprite with gladnesse, and with ioy;</l>
+                  <l>Cheere vp thy mind, and comfort eu'ry part;</l>
+                  <l>Remoue eche griefe, that may thy sence annoy:</l>
+                  <l>For neere vnto the Hauen now thou art,</l>
+                  <l>Whereas thou shalt th'Almightie Father see,</l>
+                  <l>The spring and head of all felicitie.</l>
+               </lg>
+               <lg>
+                  <l>Although these dangers hereabouts that lye,</l>
+                  <l>Doe neuer hurt the godly carefull mind:</l>
+                  <l>Yet for their safeties that shall trauell by,</l>
+                  <l>I briefly will declare their names and kind,</l>
+                  <l>That sooner so they may such mischiefes flye,</l>
+                  <l>And keeping still the safe-assured Seas,</l>
+                  <l>They may the readier find the Port of ease.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>THe first, and worst of these same dangers great,</l>
+                  <l>Is <hi>Blasphemy,</hi> a blacke sin-spotted crime,</l>
+                  <l>Which barketh still against the heauenly seat,</l>
+                  <l>And most offends the Maiestie diuine,</l>
+                  <l>With fearefull othes, sworne out in furious heat;</l>
+                  <l>Of Reprobates the most assured token,</l>
+                  <l>Whereby the wrath of God is still prouoken.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177869:27"/>
+               <lg>
+                  <l>NExt this, hath churlish <hi>Cruelty</hi> the place,</l>
+                  <l>A mischiefe that doth hellish minds assayle</l>
+                  <l>With gastly count'nance, and death-boding face,</l>
+                  <l>Whereon a number great of ships doe quayle,</l>
+                  <l>That wanting gentle winds, all voyd of grace,</l>
+                  <l>Vpon this danger hastily doe light,</l>
+                  <l>And neuer find the blisfull Hauen bright.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>THen <hi>Hatred</hi> shewes his hurtfull head aloft,</l>
+                  <l>A cankred harme, contagious vnto many,</l>
+                  <l>Which ouerthrowes the subtill Sayler oft,</l>
+                  <l>And drowpeth deepe the spightfull company;</l>
+                  <l>Who while they deeme the bed of <hi>Hatred</hi> soft,</l>
+                  <l>Doe rest themselues vpon this misery,</l>
+                  <l>Brought here asleepe by enuious heart-swolne folly.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>HEere <hi>Murther,</hi> all embrude with blood doth stand,</l>
+                  <l>That giues vnto the eye a fearefull sight,</l>
+                  <l>On top whereof, with shaking sword in hand,</l>
+                  <l>Is <hi>Fury</hi> plac't, a terrour-threatning sprite,</l>
+                  <l>Who suffers none t'attayne the happy land,</l>
+                  <l>That once vpon this mischiefe haps to light,</l>
+                  <l>Or is possest with murther-causing spight.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>HEereby stands <hi>Theft,</hi> a deepe sin-swallowing ill,</l>
+                  <l>That doth allure the greedy gracelesse mind,</l>
+                  <l>Train'd vp from youth in witlesse wretched will;</l>
+                  <l>And <hi>Robbery</hi> sister to this vice by kind,</l>
+                  <l>May here be seene about her swarming still:</l>
+                  <l>These lustie bloods that here at anker lye,</l>
+                  <l>Will sooner find a pound, then lose a penny.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177869:28"/>
+               <lg>
+                  <l>NOt farre from hence stands sinfull <hi>Sorcery,</hi>
+                  </l>
+                  <l>A mischiefe founded by the Deuill first,</l>
+                  <l>With Charmes, Enchantments, and <hi>Astrology,</hi>
+                  </l>
+                  <l>The practisers whereof are all accurst.</l>
+                  <l>And ioyn'd with this, stands <hi>Infidelity:</hi>
+                  </l>
+                  <l>The one deemes, all things by the starres are done:</l>
+                  <l>The other thinkes, that all at randon runne.</l>
+               </lg>
+               <lg>
+                  <l>To this apace our learned Masters hye,</l>
+                  <l>That teach vs what shall happen yeare by yeare,</l>
+                  <l>And what sore plagues are threatned from the skye,</l>
+                  <l>As famine, warres, and other pitious geare.</l>
+                  <l>Great Clarkes (forsooth) and such as seldome lye,</l>
+                  <l>Who fayne would be esteemed cunning men,</l>
+                  <l>While as they steale the fruits of others pen.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>NOw last of all, two dangers great appeere,</l>
+                  <l>Betweene the which thou canst not chuse but runne.</l>
+                  <l>Therefore thou must looke circumspecty heere,</l>
+                  <l>As other Saylers heretofore haue done.</l>
+                  <l>Sayle iust betweene them both, sayle not too neere</l>
+                  <l>To any of them: for strong the tide doth runne,</l>
+                  <l>And often driues the heedelesse Barkes thereon.</l>
+               </lg>
+               <lg>
+                  <l>The one of them with lofty looke doth rise,</l>
+                  <l>And seemes to touch the place where Saints do dwell;</l>
+                  <l>All blacke the other lyes before the eyes,</l>
+                  <l>The plat-forme playne, and Image right of hell.</l>
+                  <l>There shalt thou heare continuall shrikes and cries</l>
+                  <l>Of damned soules, that wofully doe yell,</l>
+                  <l>Whose lothsome shapes no mortall tongue can tell.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177869:28"/>
+               <lg>
+                  <l>
+                     <hi>PResumption</hi> hath the one of these to name,</l>
+                  <l>That makes men like their doings here too wel,</l>
+                  <l>The other <hi>Desperation</hi> full of blame,</l>
+                  <l>That throwes men headlong to the pit of hell:</l>
+                  <l>Two mischiefes great, that mans destruction frame.</l>
+                  <l>These are the hurts that in these Seas do lye:</l>
+                  <l>Regard them well, and shun them warily.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>REmayneth nothing for thee now behind,</l>
+                  <l>But gracious marks that lead the Sayler right,</l>
+                  <l>That comfort much the godly vertuous mind,</l>
+                  <l>And teach them to find out the Port of light,</l>
+                  <l>(The chiefest succour for the weary sprite.)</l>
+                  <l>For who so runnes by these, shall neuer misse</l>
+                  <l>The Hauen fayre of euerlasting blisse.</l>
+               </lg>
+               <lg>
+                  <l>The formost of these sure and happy guides,</l>
+                  <l>Is earnest <hi>Prayer,</hi> that giues a goodly show,</l>
+                  <l>And keepeth safe the Barke from troublous tides,</l>
+                  <l>That mou'd with hellish tides, contrary flow.</l>
+                  <l>In safety here the wandring vessell rides.</l>
+                  <l>Though deuill, world, and flesh against it striue,</l>
+                  <l>Yet vnder sayle it safely here may driue.</l>
+               </lg>
+               <lg>
+                  <l>A thousand happy hands may here be seene,</l>
+                  <l>Held vp with heart vnfeyn'd vnto the skyes,</l>
+                  <l>Washt in the waters of <hi>Repentance</hi> cleane,</l>
+                  <l>And purged pure with teares of weeping eyes:</l>
+                  <l>A thousand toungs, from minds that well do meane,</l>
+                  <l>Yeeld vp to God their seruent suites, and cry</l>
+                  <l>At morne, at noone, at night, continually.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177869:29"/>
+               <lg>
+                  <l>THe next, is <hi>Peace,</hi> a qulet happy place,</l>
+                  <l>Whereas no strife nor rankour can be found.</l>
+                  <l>Rest thou thy Barke within this Road of grace,</l>
+                  <l>And trauell for to touch vpon this ground.</l>
+                  <l>They alwayes come to God, that runne this race,</l>
+                  <l>For those that here most peaceably remayne,</l>
+                  <l>Haue dayly traffike with the heauenly raygne.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>HEreby doth <hi>Loue,</hi> another beauty, stand,</l>
+                  <l>That brings thee streight vnto the Road of rest,</l>
+                  <l>And poynteth out directly with her hand,</l>
+                  <l>The perfit way, by which thou mayst be blest.</l>
+                  <l>No harmefull Boat may euer here take land,</l>
+                  <l>But onely those that please th'Almighties will.</l>
+                  <l>
+                     <hi>This Loue doth all the hests of God fulfill.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>NExt, <hi>Mercy</hi> stands, a vertuous work and playne,</l>
+                  <l>That leadeth streight vnto the blissefull port,</l>
+                  <l>And is possessed of the heauenly trayne,</l>
+                  <l>And most frequented of the godly sort:</l>
+                  <l>To which our Sauiour did the <hi>Iewes</hi> exhort,</l>
+                  <l>Assuring those that mercy shew'd to men,</l>
+                  <l>That mercy should be shew'd agayne to them.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <lg>
+                  <l>NOt farre from hence, may <hi>Patience</hi> be seene,</l>
+                  <l>The Bulwarke strong against all iniury,</l>
+                  <l>The soueraigne Lady, and victorious Queene,</l>
+                  <l>In troubles toyles, and worldly misery,</l>
+                  <l>The buttresse chiefe of Christianity:</l>
+                  <l>By which, the soules of vertuous men haue sayl'd,</l>
+                  <l>That neuer yet in storme or tempest quail'd.</l>
+               </lg>
+            </div>
+            <div type="part">
+               <pb facs="tcp:177869:29"/>
+               <lg>
+                  <l>HEere liuely <hi>Fayth</hi> may well discerned be,</l>
+                  <l>The Channel safe that leads to heauenly blisse,</l>
+                  <l>Whereby the Fathers old attaynd to see</l>
+                  <l>The Hauen fayre of perfit happinesse:</l>
+                  <l>This made the <hi>Martyrs</hi> flame in such degree,</l>
+                  <l>By which they knew, assuredly to find</l>
+                  <l>The blissefull place conceiued in their mind.</l>
+               </lg>
+               <lg>
+                  <l>These are the marks whereby thou must take heed;</l>
+                  <l>By these thou mayst thy selfe in voyage guide,</l>
+                  <l>If that thou seekest happily to speed,</l>
+                  <l>And passe the Flats, and scape the raging Tyde:</l>
+                  <l>Vpon this course the holyest haue agreed:</l>
+                  <l>No other way they here haue left behind,</l>
+                  <l>Whereby we may the heauenly Harbour find.</l>
+               </lg>
+               <lg>
+                  <l>Sayle therefore as the perfit course doth lye,</l>
+                  <l>And runne the race that is to thee assign'd:</l>
+                  <l>For whoso runneth otherwise awry,</l>
+                  <l>The Hauen faire of blisse shall neuer find,</l>
+                  <l>But drown'd in Seas, for euermore shall dye:</l>
+                  <l>Where they that keepe the course that Christ hath taught,</l>
+                  <l>Shall vnto euerlasting ioyes be brought.</l>
+               </lg>
+               <lg>
+                  <l>Here would I plaine set out before thine eyes</l>
+                  <l>This happie place, wherein thy Barke shall rest,</l>
+                  <l>What shew it hath, and in what sort it lyes;</l>
+                  <l>But that it can by no man be exprest.</l>
+                  <l>That place of ioy aboue the starrie skies,</l>
+                  <l>By any wit cannot be throughly scand,</l>
+                  <l>Nor can be blaz'd by any mortall hand.</l>
+               </lg>
+               <lg>
+                  <pb facs="tcp:177869:30"/>
+                  <l>The ioyes are such, as cannot here be told,</l>
+                  <l>No pen can paynt, nor tongue can tell the kind,</l>
+                  <l>The gorgeous sight, that Saints shall here behold,</l>
+                  <l>Surmounts the reach of any earthly mind,</l>
+                  <l>And all the pleasures in this world we find:</l>
+                  <l>
+                     <hi>No eye hath seene, nor eare hath euer heard,</hi>
+                  </l>
+                  <l>
+                     <hi>The ioyes, that are for godly men prepar'd.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Apply thy mind to seeke this happy place,</l>
+                  <l>Put all thy strength, and all thy force thereto;</l>
+                  <l>Call vnto God continually for grace;</l>
+                  <l>As Christ hath taught, seeke alwayes so to doe;</l>
+                  <l>Set alwayes him, and his before thy face:</l>
+                  <l>So thou thy selfe with eyes shalt playnely see,</l>
+                  <l>What ioyes, what pleasures are prepar'd for thee.</l>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
